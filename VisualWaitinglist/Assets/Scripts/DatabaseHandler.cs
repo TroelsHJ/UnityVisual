@@ -4,6 +4,7 @@ using UnityEngine;
 using MySql.Data;
 using MySql.Data.MySqlClient;
 using System.Data;
+using System;
 
 public class DatabaseHandler : MonoBehaviour
 {
@@ -35,10 +36,12 @@ public class DatabaseHandler : MonoBehaviour
 
     public int GetSizeOfList(int _postalNumber)
     {
-        //List<PostalArea> _tempList = new List<PostalArea>();
-        //PostalArea tempArea;
-        int numberOnLists = 0;
+        List<WaitList> _tempList = new List<WaitList>();
+        WaitList _tempListObj;
+        int totalListLength = 0;
 
+
+        // Husk at tilføje afdeling til query!!
         cmd.CommandText = string.Format("SELECT ventelister.AntalPaaVenteliste, afdelinger.AfdPostBy FROM ventelister INNER JOIN afdelinger ON ventelister.FK_AfdId = afdelinger.AfdId WHERE AfdPostBy = {0};", _postalNumber);
         cmd.CommandType = CommandType.Text;
         cmd.Connection = conn;
@@ -46,15 +49,33 @@ public class DatabaseHandler : MonoBehaviour
         reader = cmd.ExecuteReader();
         while (reader.Read())
         {
-            numberOnLists += (int)reader[0];
-            //tempArea = new PostalArea();
-            //tempArea.SizeOfList = (int)reader[0];
-            //tempArea.PostalCode = (int)reader[1];
-            //_tempList.Add(tempArea);
+            _tempListObj = new WaitList((int)reader[2], (int)reader[1], (int)reader[0]);
+            _tempList.Add(_tempListObj);
         }
         reader.Close();
 
-        return numberOnLists;
+        _tempList = FilterListEntries(_tempList);
+        foreach (WaitList item in _tempList)
+        {
+            totalListLength += item.ListLength;
+        }
+
+        return totalListLength;
+    }
+
+    private List<WaitList> FilterListEntries(List<WaitList> _tempList)
+    {
+        WaitList[] _tempAry = _tempList.ToArray();
+
+        for (int i = 0; i < _tempAry.Length; i++)
+        {
+            if (_tempAry[i].Department == _tempAry[i + 1].Department)
+            {
+
+            }
+        }
+
+        return null;
     }
 
     //public List<Bil> GetSomethingOnList()
