@@ -1,0 +1,2667 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?>
+<Afdelinger>
+  <row>
+    <AfdId>1</AfdId>
+    <SelId>1</SelId>
+    <Navn>Afd. 1  Pal. Müllers Vej/Jens Baggesens Vej</Navn>
+    <Postby>8210 Århus V</Postby>
+  </row>
+  <row>
+    <AfdId>2</AfdId>
+    <SelId>1</SelId>
+    <Navn>Afd. 2 Haugesundsvej m.fl.</Navn>
+    <Postby>8200 Århus N</Postby>
+  </row>
+  <row>
+    <AfdId>3</AfdId>
+    <SelId>1</SelId>
+    <Navn>Afd. 3 Viggo Stuckenbergs Vej</Navn>
+    <Postby>8210 Århus V</Postby>
+  </row>
+  <row>
+    <AfdId>4</AfdId>
+    <SelId>1</SelId>
+    <Navn>Afd, 4 H.V. Kaalunds Vej / Chr. Molbechs Vej</Navn>
+    <Postby>8000  Århus C</Postby>
+  </row>
+  <row>
+    <AfdId>5</AfdId>
+    <SelId>1</SelId>
+    <Navn>Afd. 5 Otto Benzons Vej /Viggo Stuckenbergs Vej</Navn>
+    <Postby>8210 Århus V</Postby>
+  </row>
+  <row>
+    <AfdId>6</AfdId>
+    <SelId>1</SelId>
+    <Navn>Afd. 6 Risvang Allé / Bethesdavej</Navn>
+    <Postby>8200 Århus N</Postby>
+  </row>
+  <row>
+    <AfdId>7</AfdId>
+    <SelId>1</SelId>
+    <Navn>Afd. 7 Vestre Ringgade</Navn>
+    <Postby>8000 Århus C</Postby>
+  </row>
+  <row>
+    <AfdId>8</AfdId>
+    <SelId>1</SelId>
+    <Navn>Afd. 8 Vilh. Bergsøes Vej  / Peter Fabers Vej</Navn>
+    <Postby>8210 Århus V</Postby>
+  </row>
+  <row>
+    <AfdId>9</AfdId>
+    <SelId>1</SelId>
+    <Navn>Afd. 9 Trøjborgvej</Navn>
+    <Postby>8200 Århus N</Postby>
+  </row>
+  <row>
+    <AfdId>10</AfdId>
+    <SelId>1</SelId>
+    <Navn>Afd. 10 Sæterstien m.fl.</Navn>
+    <Postby>8200 Århus N</Postby>
+  </row>
+  <row>
+    <AfdId>11</AfdId>
+    <SelId>1</SelId>
+    <Navn>Afd. 11 Helge Rodes Vej</Navn>
+    <Postby>8210  Århus V</Postby>
+  </row>
+  <row>
+    <AfdId>12</AfdId>
+    <SelId>1</SelId>
+    <Navn>Afd. 12 Majdalen</Navn>
+    <Postby>8210 Århus V</Postby>
+  </row>
+  <row>
+    <AfdId>13</AfdId>
+    <SelId>1</SelId>
+    <Navn>Afd. 13 Hammershusvej</Navn>
+    <Postby>8210  Århus V</Postby>
+  </row>
+  <row>
+    <AfdId>14</AfdId>
+    <SelId>1</SelId>
+    <Navn>Afd. 14 Aldersrovej</Navn>
+    <Postby>8200 Århus N</Postby>
+  </row>
+  <row>
+    <AfdId>15</AfdId>
+    <SelId>1</SelId>
+    <Navn>Afd. 15 Otto Benzons Vej m.fl.</Navn>
+    <Postby>8210 Århus V</Postby>
+  </row>
+  <row>
+    <AfdId>16</AfdId>
+    <SelId>1</SelId>
+    <Navn>Afd. 16 Hammershusvej</Navn>
+    <Postby>8210  Århus V</Postby>
+  </row>
+  <row>
+    <AfdId>17</AfdId>
+    <SelId>1</SelId>
+    <Navn>Afd. 17 Kongsvang</Navn>
+    <Postby>8260  Viby J</Postby>
+  </row>
+  <row>
+    <AfdId>18</AfdId>
+    <SelId>1</SelId>
+    <Navn>Afd. 18 Trøjborgvej</Navn>
+    <Postby>8200 Århus N</Postby>
+  </row>
+  <row>
+    <AfdId>19</AfdId>
+    <SelId>1</SelId>
+    <Navn>Afd. 19 Tamperdalsvej</Navn>
+    <Postby>8210 Århus V</Postby>
+  </row>
+  <row>
+    <AfdId>20</AfdId>
+    <SelId>1</SelId>
+    <Navn>Afd. 20 Randersvej m.fl.</Navn>
+    <Postby>8200 Århus N</Postby>
+  </row>
+  <row>
+    <AfdId>21</AfdId>
+    <SelId>1</SelId>
+    <Navn>Afd. 21 Paludan-Müllers Vej/Finlandsgade</Navn>
+    <Postby>8200 Århus N</Postby>
+  </row>
+  <row>
+    <AfdId>22</AfdId>
+    <SelId>1</SelId>
+    <Navn>Afd. 22 Illerupvej</Navn>
+    <Postby>8200 Århus N</Postby>
+  </row>
+  <row>
+    <AfdId>23</AfdId>
+    <SelId>1</SelId>
+    <Navn>Afd. 23 Nydamsparken</Navn>
+    <Postby>8200  Århus N</Postby>
+  </row>
+  <row>
+    <AfdId>24</AfdId>
+    <SelId>1</SelId>
+    <Navn>Afd. 24 Kirkedammen</Navn>
+    <Postby>8000 Århus C</Postby>
+  </row>
+  <row>
+    <AfdId>25</AfdId>
+    <SelId>1</SelId>
+    <Navn>Afd. 25 Reginehøjvej</Navn>
+    <Postby>8200  Århus N</Postby>
+  </row>
+  <row>
+    <AfdId>26</AfdId>
+    <SelId>1</SelId>
+    <Navn>Afd. 26 Vestre Ringgade/Gustav Wieds Vej</Navn>
+    <Postby>8000 Århus C</Postby>
+  </row>
+  <row>
+    <AfdId>27</AfdId>
+    <SelId>1</SelId>
+    <Navn>Afd. 27 Frydenlund</Navn>
+    <Postby>8210  Århus V</Postby>
+  </row>
+  <row>
+    <AfdId>28</AfdId>
+    <SelId>1</SelId>
+    <Navn>Afd. 28 Lindholmparken</Navn>
+    <Postby>8200  Århus N</Postby>
+  </row>
+  <row>
+    <AfdId>29</AfdId>
+    <SelId>1</SelId>
+    <Navn>Afd. 29 Kalmargade</Navn>
+    <Postby>8200 Århus N</Postby>
+  </row>
+  <row>
+    <AfdId>30</AfdId>
+    <SelId>1</SelId>
+    <Navn>Afd. 30 Nørreskovvej</Navn>
+    <Postby>8382  Hinnerup</Postby>
+  </row>
+  <row>
+    <AfdId>31</AfdId>
+    <SelId>1</SelId>
+    <Navn>Afd. 31 Rydevænget</Navn>
+    <Postby>8210  Århus V</Postby>
+  </row>
+  <row>
+    <AfdId>32</AfdId>
+    <SelId>1</SelId>
+    <Navn>Afd. 32 Nørreskovvej</Navn>
+    <Postby>8382 Hinnerup</Postby>
+  </row>
+  <row>
+    <AfdId>33</AfdId>
+    <SelId>1</SelId>
+    <Navn>Afd. 33 Vestre Ringgade/Gustav Wieds Vej</Navn>
+    <Postby>8000 Århus C</Postby>
+  </row>
+  <row>
+    <AfdId>34</AfdId>
+    <SelId>1</SelId>
+    <Navn>Afd. 34 Salonikivej</Navn>
+    <Postby>8530 Hjortshøj</Postby>
+  </row>
+  <row>
+    <AfdId>35</AfdId>
+    <SelId>1</SelId>
+    <Navn>Afd. 35 Skelagervej</Navn>
+    <Postby>8200  Århus N</Postby>
+  </row>
+  <row>
+    <AfdId>36</AfdId>
+    <SelId>1</SelId>
+    <Navn>Äfd. 36 Hallssti</Navn>
+    <Postby>8000  Århus C</Postby>
+  </row>
+  <row>
+    <AfdId>37</AfdId>
+    <SelId>1</SelId>
+    <Navn>Afd. 37 Istedgade</Navn>
+    <Postby>8000  Århus C.</Postby>
+  </row>
+  <row>
+    <AfdId>38</AfdId>
+    <SelId>1</SelId>
+    <Navn>Afd. 38 Visbjerg Hegn</Navn>
+    <Postby>8320 Mårslet</Postby>
+  </row>
+  <row>
+    <AfdId>39</AfdId>
+    <SelId>1</SelId>
+    <Navn>Afd. 39 Attikavej</Navn>
+    <Postby>8530 Hjortshøj</Postby>
+  </row>
+  <row>
+    <AfdId>40</AfdId>
+    <SelId>1</SelId>
+    <Navn>Afd. 41 Viruplund</Navn>
+    <Postby>8530 Hjortshøj</Postby>
+  </row>
+  <row>
+    <AfdId>41</AfdId>
+    <SelId>1</SelId>
+    <Navn>Afd, 42 Hjelmagerparken</Navn>
+    <Postby>8541  Skødstrup</Postby>
+  </row>
+  <row>
+    <AfdId>42</AfdId>
+    <SelId>1</SelId>
+    <Navn>Afd. 43 Mosevænget</Navn>
+    <Postby>8450 Hammel</Postby>
+  </row>
+  <row>
+    <AfdId>43</AfdId>
+    <SelId>1</SelId>
+    <Navn>Afd. 44 Hjulby Hegn</Navn>
+    <Postby>8380 Trige</Postby>
+  </row>
+  <row>
+    <AfdId>44</AfdId>
+    <SelId>1</SelId>
+    <Navn>Afd. 45 Torpevænget /Kappelvænget</Navn>
+    <Postby>8210  Århus V.</Postby>
+  </row>
+  <row>
+    <AfdId>45</AfdId>
+    <SelId>1</SelId>
+    <Navn>Afd. 46 Vistoftparken</Navn>
+    <Postby>8471  Sabro</Postby>
+  </row>
+  <row>
+    <AfdId>46</AfdId>
+    <SelId>1</SelId>
+    <Navn>Afd. 47 Julsøvej</Navn>
+    <Postby>8240 Risskov</Postby>
+  </row>
+  <row>
+    <AfdId>47</AfdId>
+    <SelId>1</SelId>
+    <Navn>Afd. 48 Skæring Parkvej</Navn>
+    <Postby>8250 Egå</Postby>
+  </row>
+  <row>
+    <AfdId>48</AfdId>
+    <SelId>1</SelId>
+    <Navn>Afd. 49 Fredensgade</Navn>
+    <Postby>8000 Århus C</Postby>
+  </row>
+  <row>
+    <AfdId>49</AfdId>
+    <SelId>1</SelId>
+    <Navn>Afd. 50 Brendstrupvej</Navn>
+    <Postby>8200 Århus N</Postby>
+  </row>
+  <row>
+    <AfdId>50</AfdId>
+    <SelId>1</SelId>
+    <Navn>Afd. 51 Fredericiagade</Navn>
+    <Postby>8000 Århus C</Postby>
+  </row>
+  <row>
+    <AfdId>51</AfdId>
+    <SelId>1</SelId>
+    <Navn>Afd. 52 Viborgvej</Navn>
+    <Postby>8210 Århus V</Postby>
+  </row>
+  <row>
+    <AfdId>52</AfdId>
+    <SelId>1</SelId>
+    <Navn>Afd. 53 Julsøvej</Navn>
+    <Postby>8240 Risskov</Postby>
+  </row>
+  <row>
+    <AfdId>53</AfdId>
+    <SelId>1</SelId>
+    <Navn>Afd. 54 Norsgade</Navn>
+    <Postby>8000 Århus C</Postby>
+  </row>
+  <row>
+    <AfdId>54</AfdId>
+    <SelId>1</SelId>
+    <Navn>Afd. 55 Skæring Parkvej</Navn>
+    <Postby>8250 Egå</Postby>
+  </row>
+  <row>
+    <AfdId>55</AfdId>
+    <SelId>1</SelId>
+    <Navn>Afd. 56 Katrinebjergvej</Navn>
+    <Postby>8200 Århus N</Postby>
+  </row>
+  <row>
+    <AfdId>56</AfdId>
+    <SelId>1</SelId>
+    <Navn>Afd. 57 Åvænget</Navn>
+    <Postby>8250 Egå</Postby>
+  </row>
+  <row>
+    <AfdId>57</AfdId>
+    <SelId>1</SelId>
+    <Navn>Afd. 58 Ranunkelvej</Navn>
+    <Postby>8471  Sabro</Postby>
+  </row>
+  <row>
+    <AfdId>58</AfdId>
+    <SelId>1</SelId>
+    <Navn>Afd. 59 Høegh-Guldbergs Gade</Navn>
+    <Postby>8000 Århus C</Postby>
+  </row>
+  <row>
+    <AfdId>59</AfdId>
+    <SelId>1</SelId>
+    <Navn>Afd. 60 Paludan-Müllers Vej</Navn>
+    <Postby>8200 Århus N</Postby>
+  </row>
+  <row>
+    <AfdId>60</AfdId>
+    <SelId>1</SelId>
+    <Navn>Afd. 61 Paludan-Müllers Vej</Navn>
+    <Postby>8200 Århus N</Postby>
+  </row>
+  <row>
+    <AfdId>61</AfdId>
+    <SelId>1</SelId>
+    <Navn>Afd. 62 Skejbyparken</Navn>
+    <Postby>8200  Århus N</Postby>
+  </row>
+  <row>
+    <AfdId>62</AfdId>
+    <SelId>1</SelId>
+    <Navn>Afd. 63 Skæring Parkvej</Navn>
+    <Postby>8250 Egå</Postby>
+  </row>
+  <row>
+    <AfdId>63</AfdId>
+    <SelId>1</SelId>
+    <Navn>Afd. 67 Hørretløkken</Navn>
+    <Postby>8320 Mårslet</Postby>
+  </row>
+  <row>
+    <AfdId>64</AfdId>
+    <SelId>1</SelId>
+    <Navn>Afd. 69 Ryttervej</Navn>
+    <Postby>8450  Hammel</Postby>
+  </row>
+  <row>
+    <AfdId>65</AfdId>
+    <SelId>1</SelId>
+    <Navn>Afd. 70 Ranunkelvej</Navn>
+    <Postby>8471 Sabro</Postby>
+  </row>
+  <row>
+    <AfdId>66</AfdId>
+    <SelId>1</SelId>
+    <Navn>Afd. 71 Damgårdstoften</Navn>
+    <Postby>8320 Mårslet</Postby>
+  </row>
+  <row>
+    <AfdId>67</AfdId>
+    <SelId>1</SelId>
+    <Navn>Afd. 72 Rønnevangen</Navn>
+    <Postby>8471 Sabro</Postby>
+  </row>
+  <row>
+    <AfdId>68</AfdId>
+    <SelId>1</SelId>
+    <Navn>Afd. 73 Virup Skovvej</Navn>
+    <Postby>8530 Hjortshøj</Postby>
+  </row>
+  <row>
+    <AfdId>69</AfdId>
+    <SelId>1</SelId>
+    <Navn>Afd. 75 Herningvej 1</Navn>
+    <Postby>8000 Aarhus C.</Postby>
+  </row>
+  <row>
+    <AfdId>70</AfdId>
+    <SelId>2</SelId>
+    <Navn>Afd. 01 Præstehaven</Navn>
+    <Postby>8210  Århus V.</Postby>
+  </row>
+  <row>
+    <AfdId>71</AfdId>
+    <SelId>2</SelId>
+    <Navn>Afd. 02 Præstehaven</Navn>
+    <Postby>8210  Århus V.</Postby>
+  </row>
+  <row>
+    <AfdId>72</AfdId>
+    <SelId>2</SelId>
+    <Navn>Afd. 03 Ryhaven</Navn>
+    <Postby>8210  Århus V.</Postby>
+  </row>
+  <row>
+    <AfdId>73</AfdId>
+    <SelId>2</SelId>
+    <Navn>Afd. 05 Rosengården</Navn>
+    <Postby>8000  Århus C.</Postby>
+  </row>
+  <row>
+    <AfdId>74</AfdId>
+    <SelId>2</SelId>
+    <Navn>Afd. 06 Bispehaven</Navn>
+    <Postby>8210  Århus V.</Postby>
+  </row>
+  <row>
+    <AfdId>75</AfdId>
+    <SelId>2</SelId>
+    <Navn>Afd. 09 Rønnehegnet</Navn>
+    <Postby>8381  Tilst</Postby>
+  </row>
+  <row>
+    <AfdId>76</AfdId>
+    <SelId>2</SelId>
+    <Navn>Afd. 10 Neptunvej</Navn>
+    <Postby>8270  Højbjerg</Postby>
+  </row>
+  <row>
+    <AfdId>77</AfdId>
+    <SelId>2</SelId>
+    <Navn>Afd. 11 Holbergsgade</Navn>
+    <Postby>8000  Århus C.</Postby>
+  </row>
+  <row>
+    <AfdId>78</AfdId>
+    <SelId>2</SelId>
+    <Navn>Afd. 12 Bymosevej</Navn>
+    <Postby>8210  Århus V</Postby>
+  </row>
+  <row>
+    <AfdId>79</AfdId>
+    <SelId>2</SelId>
+    <Navn>Afd. 13 Wilstersgade</Navn>
+    <Postby>8000  Århus C.</Postby>
+  </row>
+  <row>
+    <AfdId>80</AfdId>
+    <SelId>2</SelId>
+    <Navn>Afd. 14 Tuestensvej</Navn>
+    <Postby>8381 Tilst</Postby>
+  </row>
+  <row>
+    <AfdId>81</AfdId>
+    <SelId>2</SelId>
+    <Navn>Afd. 15 Stavnsvej</Navn>
+    <Postby>8381  Tilst</Postby>
+  </row>
+  <row>
+    <AfdId>82</AfdId>
+    <SelId>2</SelId>
+    <Navn>Afd. 16, Rytoften</Navn>
+    <Postby>8210 Århus V</Postby>
+  </row>
+  <row>
+    <AfdId>83</AfdId>
+    <SelId>2</SelId>
+    <Navn>Afd. 19 Tronkærgårdsvej</Navn>
+    <Postby>8541 Skødstrup</Postby>
+  </row>
+  <row>
+    <AfdId>84</AfdId>
+    <SelId>2</SelId>
+    <Navn>Afd. 20 Marienlyst</Navn>
+    <Postby>8200 Aarhus N</Postby>
+  </row>
+  <row>
+    <AfdId>85</AfdId>
+    <SelId>2</SelId>
+    <Navn>Afd. 22 Bjørholms Alle</Navn>
+    <Postby>8260 Viby J</Postby>
+  </row>
+  <row>
+    <AfdId>86</AfdId>
+    <SelId>2</SelId>
+    <Navn>Afd. 71 Mågevej</Navn>
+    <Postby>8680 Ry</Postby>
+  </row>
+  <row>
+    <AfdId>87</AfdId>
+    <SelId>2</SelId>
+    <Navn>Afd. 73 Mågevej</Navn>
+    <Postby>8680 Ry</Postby>
+  </row>
+  <row>
+    <AfdId>88</AfdId>
+    <SelId>2</SelId>
+    <Navn>Afd. 74 Ny Kirkevej 25-29/Isagervej 17/Siimvej</Navn>
+    <Postby>8680 Ry</Postby>
+  </row>
+  <row>
+    <AfdId>89</AfdId>
+    <SelId>2</SelId>
+    <Navn>Afd. 75 Ny Kirkevej</Navn>
+    <Postby>8680 Ry</Postby>
+  </row>
+  <row>
+    <AfdId>90</AfdId>
+    <SelId>2</SelId>
+    <Navn>Afd. 76 Skansehøj</Navn>
+    <Postby>8680 Ry</Postby>
+  </row>
+  <row>
+    <AfdId>91</AfdId>
+    <SelId>2</SelId>
+    <Navn>Afd. 77 Søkildevej</Navn>
+    <Postby>8680 Ry</Postby>
+  </row>
+  <row>
+    <AfdId>92</AfdId>
+    <SelId>2</SelId>
+    <Navn>Afd. 78 Gyvelparken</Navn>
+    <Postby>8680 Ry</Postby>
+  </row>
+  <row>
+    <AfdId>93</AfdId>
+    <SelId>2</SelId>
+    <Navn>Afd. 83 Skanseparken</Navn>
+    <Postby>8680 Ry</Postby>
+  </row>
+  <row>
+    <AfdId>94</AfdId>
+    <SelId>2</SelId>
+    <Navn>Afd. 85 Moselunden</Navn>
+    <Postby>8680 Ry</Postby>
+  </row>
+  <row>
+    <AfdId>95</AfdId>
+    <SelId>2</SelId>
+    <Navn>Afd. 87 Gerstedvej</Navn>
+    <Postby>8680 Ry</Postby>
+  </row>
+  <row>
+    <AfdId>96</AfdId>
+    <SelId>2</SelId>
+    <Navn>Afd. 88 Skæphøj</Navn>
+    <Postby>8680 Ry</Postby>
+  </row>
+  <row>
+    <AfdId>97</AfdId>
+    <SelId>2</SelId>
+    <Navn>Afd. 89 Kildebjerg</Navn>
+    <Postby>8680</Postby>
+  </row>
+  <row>
+    <AfdId>98</AfdId>
+    <SelId>3</SelId>
+    <Navn>Afd. 101 Engparken</Navn>
+    <Postby>8230  Åbyhøj</Postby>
+  </row>
+  <row>
+    <AfdId>99</AfdId>
+    <SelId>3</SelId>
+    <Navn>Afd. 103 Henrik Hertzvej</Navn>
+    <Postby>8230  Åbyhøj</Postby>
+  </row>
+  <row>
+    <AfdId>100</AfdId>
+    <SelId>3</SelId>
+    <Navn>Afd. 104 Banely</Navn>
+    <Postby>8230  Åbyhøj</Postby>
+  </row>
+  <row>
+    <AfdId>101</AfdId>
+    <SelId>3</SelId>
+    <Navn>Afd. 105 Tousparken</Navn>
+    <Postby>8230  Åbyhøj</Postby>
+  </row>
+  <row>
+    <AfdId>102</AfdId>
+    <SelId>3</SelId>
+    <Navn>Afd. 107 Birkeparken</Navn>
+    <Postby>8230  Åbyhøj</Postby>
+  </row>
+  <row>
+    <AfdId>103</AfdId>
+    <SelId>3</SelId>
+    <Navn>Afd. 108 Lindeparken</Navn>
+    <Postby>8230  Åbyhøj</Postby>
+  </row>
+  <row>
+    <AfdId>104</AfdId>
+    <SelId>3</SelId>
+    <Navn>Afd. 109 Digtergangen</Navn>
+    <Postby>8230  Åbyhøj</Postby>
+  </row>
+  <row>
+    <AfdId>105</AfdId>
+    <SelId>3</SelId>
+    <Navn>Afd. 110 Åbyhøjgård</Navn>
+    <Postby>8230  Åbyhøj</Postby>
+  </row>
+  <row>
+    <AfdId>106</AfdId>
+    <SelId>3</SelId>
+    <Navn>Afd. 111 Langkærparken</Navn>
+    <Postby>8381  Tilst</Postby>
+  </row>
+  <row>
+    <AfdId>107</AfdId>
+    <SelId>3</SelId>
+    <Navn>Afd. 113 Græsvangen</Navn>
+    <Postby>8381  Tilst</Postby>
+  </row>
+  <row>
+    <AfdId>108</AfdId>
+    <SelId>3</SelId>
+    <Navn>Afd. 114 Hjortshøjparken</Navn>
+    <Postby>8530  Hjortshøj</Postby>
+  </row>
+  <row>
+    <AfdId>109</AfdId>
+    <SelId>3</SelId>
+    <Navn>Afd. 118 B.S. Ingemannsvej</Navn>
+    <Postby>8230 Åbyhøj</Postby>
+  </row>
+  <row>
+    <AfdId>110</AfdId>
+    <SelId>3</SelId>
+    <Navn>Afd. 120 Haslevej</Navn>
+    <Postby>8230  Åbyhøj</Postby>
+  </row>
+  <row>
+    <AfdId>111</AfdId>
+    <SelId>3</SelId>
+    <Navn>Afd. 121 Æblehaven</Navn>
+    <Postby>8230  Åbyhøj</Postby>
+  </row>
+  <row>
+    <AfdId>112</AfdId>
+    <SelId>3</SelId>
+    <Navn>Afd. 122 Søhøjen</Navn>
+    <Postby>8381  Tilst</Postby>
+  </row>
+  <row>
+    <AfdId>113</AfdId>
+    <SelId>3</SelId>
+    <Navn>Afd. 123 Vestergården</Navn>
+    <Postby>8381 Tilst</Postby>
+  </row>
+  <row>
+    <AfdId>114</AfdId>
+    <SelId>3</SelId>
+    <Navn>Afd. 125 Tranbjerg Syd</Navn>
+    <Postby>8310  Tranbjerg</Postby>
+  </row>
+  <row>
+    <AfdId>115</AfdId>
+    <SelId>3</SelId>
+    <Navn>Afd. 126 Østergårdstoften</Navn>
+    <Postby>8530  Hjortshøj</Postby>
+  </row>
+  <row>
+    <AfdId>116</AfdId>
+    <SelId>3</SelId>
+    <Navn>Afd. 127 Petersminde</Navn>
+    <Postby>8230  Åbyhøj</Postby>
+  </row>
+  <row>
+    <AfdId>117</AfdId>
+    <SelId>3</SelId>
+    <Navn>Afd. 131 C.A. Thyregodsvej</Navn>
+    <Postby>8230  Åbyhøj</Postby>
+  </row>
+  <row>
+    <AfdId>118</AfdId>
+    <SelId>3</SelId>
+    <Navn>Afd. 133 Skovfaldet</Navn>
+    <Postby>8382  Hinnerup</Postby>
+  </row>
+  <row>
+    <AfdId>119</AfdId>
+    <SelId>3</SelId>
+    <Navn>Afd. 134 Ertebjerg</Navn>
+    <Postby>8381  Tilst</Postby>
+  </row>
+  <row>
+    <AfdId>120</AfdId>
+    <SelId>3</SelId>
+    <Navn>Afd. 135 Mølagervej</Navn>
+    <Postby>8382  Hinnerup</Postby>
+  </row>
+  <row>
+    <AfdId>121</AfdId>
+    <SelId>3</SelId>
+    <Navn>Afd. 138 Engdraget/Ved Åen</Navn>
+    <Postby>8382  Hinnerup</Postby>
+  </row>
+  <row>
+    <AfdId>122</AfdId>
+    <SelId>3</SelId>
+    <Navn>Afd. 139 Moseparken</Navn>
+    <Postby>8381  Tilst</Postby>
+  </row>
+  <row>
+    <AfdId>123</AfdId>
+    <SelId>3</SelId>
+    <Navn>Afd. 140 Poppelhegnet</Navn>
+    <Postby>8381 Tilst.</Postby>
+  </row>
+  <row>
+    <AfdId>124</AfdId>
+    <SelId>3</SelId>
+    <Navn>Afd. 141 Korsvangen</Navn>
+    <Postby>8382  Hinnerup</Postby>
+  </row>
+  <row>
+    <AfdId>125</AfdId>
+    <SelId>3</SelId>
+    <Navn>Afd. 142 Jernaldervej</Navn>
+    <Postby>8382  Hinnerup</Postby>
+  </row>
+  <row>
+    <AfdId>126</AfdId>
+    <SelId>3</SelId>
+    <Navn>Afd. 143 Hinneruplund</Navn>
+    <Postby>8382  Hinnerup</Postby>
+  </row>
+  <row>
+    <AfdId>127</AfdId>
+    <SelId>3</SelId>
+    <Navn>Afd. 145 Fuglebakken</Navn>
+    <Postby>8382  Hinnerup</Postby>
+  </row>
+  <row>
+    <AfdId>128</AfdId>
+    <SelId>3</SelId>
+    <Navn>Afd. 146 Ellemosevej</Navn>
+    <Postby>8370 Hadsten</Postby>
+  </row>
+  <row>
+    <AfdId>129</AfdId>
+    <SelId>3</SelId>
+    <Navn>Afd. 147 Lilleåbakken</Navn>
+    <Postby>8382  Hinnerup</Postby>
+  </row>
+  <row>
+    <AfdId>130</AfdId>
+    <SelId>3</SelId>
+    <Navn>Afd. 151 Elkjærsvej</Navn>
+    <Postby>8450  Hammel</Postby>
+  </row>
+  <row>
+    <AfdId>131</AfdId>
+    <SelId>3</SelId>
+    <Navn>Afd. 152 Kappelsdal</Navn>
+    <Postby>8450  Hammel</Postby>
+  </row>
+  <row>
+    <AfdId>132</AfdId>
+    <SelId>3</SelId>
+    <Navn>Afd. 153 Mejerigården</Navn>
+    <Postby>8450   Hammel</Postby>
+  </row>
+  <row>
+    <AfdId>133</AfdId>
+    <SelId>3</SelId>
+    <Navn>Afd. 155 Jagtvej</Navn>
+    <Postby>8450   Hammel</Postby>
+  </row>
+  <row>
+    <AfdId>134</AfdId>
+    <SelId>3</SelId>
+    <Navn>Afd. 156 Hammel Midtby</Navn>
+    <Postby>8450  Hammel</Postby>
+  </row>
+  <row>
+    <AfdId>135</AfdId>
+    <SelId>3</SelId>
+    <Navn>Afd. 158 Skolegade</Navn>
+    <Postby>8450 Hammel</Postby>
+  </row>
+  <row>
+    <AfdId>136</AfdId>
+    <SelId>3</SelId>
+    <Navn>Afd. 159 Danasvej</Navn>
+    <Postby>8450   Hammel</Postby>
+  </row>
+  <row>
+    <AfdId>137</AfdId>
+    <SelId>3</SelId>
+    <Navn>Afd. 301 A. Jensens Vej</Navn>
+    <Postby>8230  Åbyhøj</Postby>
+  </row>
+  <row>
+    <AfdId>138</AfdId>
+    <SelId>3</SelId>
+    <Navn>Afd. 303 O.I. Offersensvej</Navn>
+    <Postby>8230  Åbyhøj</Postby>
+  </row>
+  <row>
+    <AfdId>139</AfdId>
+    <SelId>3</SelId>
+    <Navn>Afd. 304 A. Jensensvej</Navn>
+    <Postby>8230  Åbyhøj</Postby>
+  </row>
+  <row>
+    <AfdId>140</AfdId>
+    <SelId>3</SelId>
+    <Navn>Afd. 305 A. Jensensvej</Navn>
+    <Postby>8230  Åbyhøj</Postby>
+  </row>
+  <row>
+    <AfdId>141</AfdId>
+    <SelId>3</SelId>
+    <Navn>Afd. 306 A. Jensensvej</Navn>
+    <Postby>8230  Åbyhøj</Postby>
+  </row>
+  <row>
+    <AfdId>142</AfdId>
+    <SelId>3</SelId>
+    <Navn>Afd. 307 Henrik Hertzvej</Navn>
+    <Postby>8230  Åbyhøj</Postby>
+  </row>
+  <row>
+    <AfdId>143</AfdId>
+    <SelId>3</SelId>
+    <Navn>Afd. 308 Vibyvej</Navn>
+    <Postby>8230  Åbyhøj</Postby>
+  </row>
+  <row>
+    <AfdId>144</AfdId>
+    <SelId>3</SelId>
+    <Navn>Afd. 309 Henrik Hertzvej /Vibyvej</Navn>
+    <Postby>8230  Åbyhøj</Postby>
+  </row>
+  <row>
+    <AfdId>145</AfdId>
+    <SelId>3</SelId>
+    <Navn>Afd. 310 Åbyhøjgård</Navn>
+    <Postby>8230  Åbyhøj</Postby>
+  </row>
+  <row>
+    <AfdId>146</AfdId>
+    <SelId>3</SelId>
+    <Navn>Afd. 312 Hjortshøj Møllevej</Navn>
+    <Postby>8530  Hjortshøj</Postby>
+  </row>
+  <row>
+    <AfdId>147</AfdId>
+    <SelId>3</SelId>
+    <Navn>Afd. 313 Hjortshøjparken</Navn>
+    <Postby>8530  Hjortshøj</Postby>
+  </row>
+  <row>
+    <AfdId>148</AfdId>
+    <SelId>3</SelId>
+    <Navn>Afd. 314 Strandborg</Navn>
+    <Postby>8310  Tranbjerg.</Postby>
+  </row>
+  <row>
+    <AfdId>149</AfdId>
+    <SelId>3</SelId>
+    <Navn>Afd. 315 Højager</Navn>
+    <Postby>8530  Hjortshøj</Postby>
+  </row>
+  <row>
+    <AfdId>150</AfdId>
+    <SelId>3</SelId>
+    <Navn>Afd. 318 Solsiden</Navn>
+    <Postby>8310 Tranbjerg.</Postby>
+  </row>
+  <row>
+    <AfdId>151</AfdId>
+    <SelId>3</SelId>
+    <Navn>Afd. 319 Belgrano</Navn>
+    <Postby>8230  Åbyhøj</Postby>
+  </row>
+  <row>
+    <AfdId>152</AfdId>
+    <SelId>4</SelId>
+    <Navn>Afd. 01 Dybbølvej</Navn>
+    <Postby>8240  Risskov</Postby>
+  </row>
+  <row>
+    <AfdId>153</AfdId>
+    <SelId>4</SelId>
+    <Navn>Afd. 04 Langengevej (syd)</Navn>
+    <Postby>8240 Risskov</Postby>
+  </row>
+  <row>
+    <AfdId>154</AfdId>
+    <SelId>4</SelId>
+    <Navn>Afd. 05 Tværmarksvej / Stenagervej</Navn>
+    <Postby>8240 Risskov</Postby>
+  </row>
+  <row>
+    <AfdId>155</AfdId>
+    <SelId>4</SelId>
+    <Navn>Afd. 08 Tranekærparken</Navn>
+    <Postby>8240 Risskov</Postby>
+  </row>
+  <row>
+    <AfdId>156</AfdId>
+    <SelId>4</SelId>
+    <Navn>Afd. 09 Spangsvej m.fl.</Navn>
+    <Postby>8240 Risskov</Postby>
+  </row>
+  <row>
+    <AfdId>157</AfdId>
+    <SelId>4</SelId>
+    <Navn>Afd. 10 Vejlby Vænge</Navn>
+    <Postby>8240 Risskov</Postby>
+  </row>
+  <row>
+    <AfdId>158</AfdId>
+    <SelId>4</SelId>
+    <Navn>Afd. 11 Vejlby Toften</Navn>
+    <Postby>8240 Risskov</Postby>
+  </row>
+  <row>
+    <AfdId>159</AfdId>
+    <SelId>4</SelId>
+    <Navn>Afd. 12 Kildehøjen</Navn>
+    <Postby>8240 Risskov</Postby>
+  </row>
+  <row>
+    <AfdId>160</AfdId>
+    <SelId>4</SelId>
+    <Navn>Afd. 14 Vejlby Hus</Navn>
+    <Postby>8240 Risskov</Postby>
+  </row>
+  <row>
+    <AfdId>161</AfdId>
+    <SelId>4</SelId>
+    <Navn>Afd. 17 Vejlby Toften</Navn>
+    <Postby>8240 Risskov</Postby>
+  </row>
+  <row>
+    <AfdId>162</AfdId>
+    <SelId>4</SelId>
+    <Navn>Afd. 18 Vikær Toften</Navn>
+    <Postby>8240 Risskov</Postby>
+  </row>
+  <row>
+    <AfdId>163</AfdId>
+    <SelId>4</SelId>
+    <Navn>Afd. 19 Langengevej (nord)</Navn>
+    <Postby>8240 Risskov</Postby>
+  </row>
+  <row>
+    <AfdId>164</AfdId>
+    <SelId>5</SelId>
+    <Navn>Afd. 01 Hans Brogesparken</Navn>
+    <Postby>8220  Brabrand</Postby>
+  </row>
+  <row>
+    <AfdId>165</AfdId>
+    <SelId>5</SelId>
+    <Navn>Afd. 02   Søvangen</Navn>
+    <Postby>8220  Brabrand</Postby>
+  </row>
+  <row>
+    <AfdId>166</AfdId>
+    <SelId>5</SelId>
+    <Navn>Afd. 03   Skovgårdsparken</Navn>
+    <Postby>8220 Brabrand.</Postby>
+  </row>
+  <row>
+    <AfdId>167</AfdId>
+    <SelId>5</SelId>
+    <Navn>Afd. 04   Gellerupparken</Navn>
+    <Postby>8220  Brabrand</Postby>
+  </row>
+  <row>
+    <AfdId>168</AfdId>
+    <SelId>5</SelId>
+    <Navn>Afd. 05   Toveshøj</Navn>
+    <Postby>8220  Brabrand</Postby>
+  </row>
+  <row>
+    <AfdId>169</AfdId>
+    <SelId>5</SelId>
+    <Navn>Afd. 06   Holmstrup</Navn>
+    <Postby>8210  Århus V.</Postby>
+  </row>
+  <row>
+    <AfdId>170</AfdId>
+    <SelId>5</SelId>
+    <Navn>Afd. 07   Hasselhøj</Navn>
+    <Postby>8361  Hasselager</Postby>
+  </row>
+  <row>
+    <AfdId>171</AfdId>
+    <SelId>5</SelId>
+    <Navn>Afd. 08   Drejergården</Navn>
+    <Postby>8220  Brabrand</Postby>
+  </row>
+  <row>
+    <AfdId>172</AfdId>
+    <SelId>5</SelId>
+    <Navn>Afd. 10 Rødlundparken</Navn>
+    <Postby>8462  Harlev Jylland</Postby>
+  </row>
+  <row>
+    <AfdId>173</AfdId>
+    <SelId>5</SelId>
+    <Navn>Afd. 11   Odinsgaard</Navn>
+    <Postby>8220  Brabrand</Postby>
+  </row>
+  <row>
+    <AfdId>174</AfdId>
+    <SelId>5</SelId>
+    <Navn>Afd. 12   Thorsbjerg</Navn>
+    <Postby>8220  Brabrand</Postby>
+  </row>
+  <row>
+    <AfdId>175</AfdId>
+    <SelId>5</SelId>
+    <Navn>Afd. 14   Borumtoften</Navn>
+    <Postby>8471  Sabro</Postby>
+  </row>
+  <row>
+    <AfdId>176</AfdId>
+    <SelId>5</SelId>
+    <Navn>Afd. 15 Hasselengen</Navn>
+    <Postby>8361  Hasselager</Postby>
+  </row>
+  <row>
+    <AfdId>177</AfdId>
+    <SelId>5</SelId>
+    <Navn>Afd. 16  SenioBo Voldbækhave</Navn>
+    <Postby>8220  Brabrand</Postby>
+  </row>
+  <row>
+    <AfdId>178</AfdId>
+    <SelId>5</SelId>
+    <Navn>Afd. 17   Højriisparken</Navn>
+    <Postby>8220  Brabrand</Postby>
+  </row>
+  <row>
+    <AfdId>179</AfdId>
+    <SelId>5</SelId>
+    <Navn>Afd. 18   Lyngby</Navn>
+    <Postby>8220  Brabrand</Postby>
+  </row>
+  <row>
+    <AfdId>180</AfdId>
+    <SelId>5</SelId>
+    <Navn>Afd. 19 Bronzealdervænget</Navn>
+    <Postby>8210  Århus V</Postby>
+  </row>
+  <row>
+    <AfdId>181</AfdId>
+    <SelId>5</SelId>
+    <Navn>Afd. 21   Baunevej/Hasseltoften</Navn>
+    <Postby>8361  Hasselager</Postby>
+  </row>
+  <row>
+    <AfdId>182</AfdId>
+    <SelId>5</SelId>
+    <Navn>Afd. 22 Sonnesgården</Navn>
+    <Postby>8000 Århus C</Postby>
+  </row>
+  <row>
+    <AfdId>183</AfdId>
+    <SelId>5</SelId>
+    <Navn>Afd. 23 Skovhøj</Navn>
+    <Postby>8361  Hasselager</Postby>
+  </row>
+  <row>
+    <AfdId>184</AfdId>
+    <SelId>5</SelId>
+    <Navn>Afd. 24 Skovhøj</Navn>
+    <Postby>8361  Hasselager</Postby>
+  </row>
+  <row>
+    <AfdId>185</AfdId>
+    <SelId>5</SelId>
+    <Navn>Afd. 25 Østergårdsparken</Navn>
+    <Postby>8310 Tranbjerg</Postby>
+  </row>
+  <row>
+    <AfdId>186</AfdId>
+    <SelId>5</SelId>
+    <Navn>Afd. 26 Kildeagervej</Navn>
+    <Postby>8361  Hasselager</Postby>
+  </row>
+  <row>
+    <AfdId>187</AfdId>
+    <SelId>5</SelId>
+    <Navn>Afd. 30 Pilevangen</Navn>
+    <Postby>8355 Solbjerg</Postby>
+  </row>
+  <row>
+    <AfdId>188</AfdId>
+    <SelId>6</SelId>
+    <Navn>Afd. 01 V. Ringgade m.fl.</Navn>
+    <Postby>8000  Århus C.</Postby>
+  </row>
+  <row>
+    <AfdId>189</AfdId>
+    <SelId>6</SelId>
+    <Navn>Afd. 02 Viborgvej m.fl.</Navn>
+    <Postby>8000  Århus C.</Postby>
+  </row>
+  <row>
+    <AfdId>190</AfdId>
+    <SelId>6</SelId>
+    <Navn>Afd. 03 Kaserneboulevarden</Navn>
+    <Postby>8000  Århus C.</Postby>
+  </row>
+  <row>
+    <AfdId>191</AfdId>
+    <SelId>6</SelId>
+    <Navn>Afd. 04 Silkeborgvej</Navn>
+    <Postby>8000  Århus C.</Postby>
+  </row>
+  <row>
+    <AfdId>192</AfdId>
+    <SelId>6</SelId>
+    <Navn>Afd. 05 Paludan-Müllers Vej m. fl.</Navn>
+    <Postby>8210  Århus V.</Postby>
+  </row>
+  <row>
+    <AfdId>193</AfdId>
+    <SelId>6</SelId>
+    <Navn>Afd. 06 Paludan-Müllers Vej m. fl.</Navn>
+    <Postby>8210  Århus V.</Postby>
+  </row>
+  <row>
+    <AfdId>194</AfdId>
+    <SelId>6</SelId>
+    <Navn>Afd. 07 Gustav Wiedsvej 31-35</Navn>
+    <Postby>8200  Århus N</Postby>
+  </row>
+  <row>
+    <AfdId>195</AfdId>
+    <SelId>6</SelId>
+    <Navn>Afd. 7A Møllevangsalle 145-149</Navn>
+    <Postby>8210  Århus V</Postby>
+  </row>
+  <row>
+    <AfdId>196</AfdId>
+    <SelId>6</SelId>
+    <Navn>Afd. 7B Willemoesgade 76-82</Navn>
+    <Postby>8200 Århus N</Postby>
+  </row>
+  <row>
+    <AfdId>197</AfdId>
+    <SelId>6</SelId>
+    <Navn>Afd. 08 Fuglesangsalle m.fl.</Navn>
+    <Postby>8210  Århus V.</Postby>
+  </row>
+  <row>
+    <AfdId>198</AfdId>
+    <SelId>6</SelId>
+    <Navn>Afd. 09 Bildbjerg Parkvej m.fl.</Navn>
+    <Postby>8200  Århus N.</Postby>
+  </row>
+  <row>
+    <AfdId>199</AfdId>
+    <SelId>6</SelId>
+    <Navn>Afd. 9A Mandalsvej m.fl.</Navn>
+    <Postby>8200  Århus N.</Postby>
+  </row>
+  <row>
+    <AfdId>200</AfdId>
+    <SelId>6</SelId>
+    <Navn>Afd. 9B Bodøvej</Navn>
+    <Postby>8200  Århus N.</Postby>
+  </row>
+  <row>
+    <AfdId>201</AfdId>
+    <SelId>6</SelId>
+    <Navn>Afd. 9C Bygvangen m.fl.</Navn>
+    <Postby>8200  Århus N.</Postby>
+  </row>
+  <row>
+    <AfdId>202</AfdId>
+    <SelId>6</SelId>
+    <Navn>Afd. 9D Bodøvej</Navn>
+    <Postby>8200  Århus N.</Postby>
+  </row>
+  <row>
+    <AfdId>203</AfdId>
+    <SelId>6</SelId>
+    <Navn>Afd. 10 Paludan-Müllers Vej</Navn>
+    <Postby>8210  Århus V.</Postby>
+  </row>
+  <row>
+    <AfdId>204</AfdId>
+    <SelId>6</SelId>
+    <Navn>Afd. 11 Ndr. Ringgade m.fl.</Navn>
+    <Postby>8200  Århus N.</Postby>
+  </row>
+  <row>
+    <AfdId>205</AfdId>
+    <SelId>6</SelId>
+    <Navn>Afd. 12 Stendalsvej</Navn>
+    <Postby>8210  Århus V.</Postby>
+  </row>
+  <row>
+    <AfdId>206</AfdId>
+    <SelId>6</SelId>
+    <Navn>Afd. 14 Engvangen</Navn>
+    <Postby>8520  Lystrup</Postby>
+  </row>
+  <row>
+    <AfdId>207</AfdId>
+    <SelId>6</SelId>
+    <Navn>Afd. 14A Kærløkken m.fl.</Navn>
+    <Postby>8520  Lystrup</Postby>
+  </row>
+  <row>
+    <AfdId>208</AfdId>
+    <SelId>6</SelId>
+    <Navn>Afd. 14 B Hedeskovvej m.fl.</Navn>
+    <Postby>8520  Lystrup</Postby>
+  </row>
+  <row>
+    <AfdId>209</AfdId>
+    <SelId>6</SelId>
+    <Navn>Afd. 14C Lystruplund</Navn>
+    <Postby>8520  Lystrup</Postby>
+  </row>
+  <row>
+    <AfdId>210</AfdId>
+    <SelId>6</SelId>
+    <Navn>Afd. 15 Holme Byvej m.fl.</Navn>
+    <Postby>8270  Højbjerg</Postby>
+  </row>
+  <row>
+    <AfdId>211</AfdId>
+    <SelId>6</SelId>
+    <Navn>Afd. 15A Holme Byvej</Navn>
+    <Postby>8270  Højbjerg</Postby>
+  </row>
+  <row>
+    <AfdId>212</AfdId>
+    <SelId>6</SelId>
+    <Navn>Afd. 17 Rundhøjalle</Navn>
+    <Postby>8270  Højbjerg</Postby>
+  </row>
+  <row>
+    <AfdId>213</AfdId>
+    <SelId>6</SelId>
+    <Navn>Afd. 18 Bogfinkevej</Navn>
+    <Postby>8210  Århus V.</Postby>
+  </row>
+  <row>
+    <AfdId>214</AfdId>
+    <SelId>6</SelId>
+    <Navn>Afd. 19 Trige Centervej</Navn>
+    <Postby>8380  Trige</Postby>
+  </row>
+  <row>
+    <AfdId>215</AfdId>
+    <SelId>6</SelId>
+    <Navn>Afd. 20 Trige Parkvej</Navn>
+    <Postby>8380  Trige</Postby>
+  </row>
+  <row>
+    <AfdId>216</AfdId>
+    <SelId>6</SelId>
+    <Navn>Afd. 21 Rydevænget/Fjældevænget</Navn>
+    <Postby>8210  Århus V.</Postby>
+  </row>
+  <row>
+    <AfdId>217</AfdId>
+    <SelId>6</SelId>
+    <Navn>Afd. 22 Dr. Margrethesvej</Navn>
+    <Postby>8200  Århus N.</Postby>
+  </row>
+  <row>
+    <AfdId>218</AfdId>
+    <SelId>6</SelId>
+    <Navn>Afd. 23 Solbærhaven m.fl.</Navn>
+    <Postby>8520  Lystrup</Postby>
+  </row>
+  <row>
+    <AfdId>219</AfdId>
+    <SelId>6</SelId>
+    <Navn>Afd. 24 Præsteager</Navn>
+    <Postby>8200  Århus N.</Postby>
+  </row>
+  <row>
+    <AfdId>220</AfdId>
+    <SelId>6</SelId>
+    <Navn>Afd. 25 Præsteager 30-64</Navn>
+    <Postby>8200  Århus N</Postby>
+  </row>
+  <row>
+    <AfdId>221</AfdId>
+    <SelId>6</SelId>
+    <Navn>Afd. 26 Bjørnholt</Navn>
+    <Postby>8520  Lystrup</Postby>
+  </row>
+  <row>
+    <AfdId>222</AfdId>
+    <SelId>6</SelId>
+    <Navn>Afd. 27 Skelagervej 3A-3D</Navn>
+    <Postby>8200  Århus N</Postby>
+  </row>
+  <row>
+    <AfdId>223</AfdId>
+    <SelId>6</SelId>
+    <Navn>Afd. 28 Ellebrinken</Navn>
+    <Postby>8520  Lystrup</Postby>
+  </row>
+  <row>
+    <AfdId>224</AfdId>
+    <SelId>6</SelId>
+    <Navn>Afd. 29 Skejbytoften</Navn>
+    <Postby>8200  Århus N.</Postby>
+  </row>
+  <row>
+    <AfdId>225</AfdId>
+    <SelId>6</SelId>
+    <Navn>Afd. 30 Hjortshøj Møllevej</Navn>
+    <Postby>8530 Hjortshøj</Postby>
+  </row>
+  <row>
+    <AfdId>226</AfdId>
+    <SelId>6</SelId>
+    <Navn>Afd. 31 Ellebrinken, CasaNova</Navn>
+    <Postby>8520  Lystrup</Postby>
+  </row>
+  <row>
+    <AfdId>227</AfdId>
+    <SelId>6</SelId>
+    <Navn>Afd. 32 Skejbyparken</Navn>
+    <Postby>8200 Århus N.</Postby>
+  </row>
+  <row>
+    <AfdId>228</AfdId>
+    <SelId>6</SelId>
+    <Navn>Afd. 33 Lærkehaven I</Navn>
+    <Postby>8520 Lystrup</Postby>
+  </row>
+  <row>
+    <AfdId>229</AfdId>
+    <SelId>6</SelId>
+    <Navn>Afd. 34 Lærkehaven II</Navn>
+    <Postby>8520 Lystrup</Postby>
+  </row>
+  <row>
+    <AfdId>230</AfdId>
+    <SelId>6</SelId>
+    <Navn>Afd. 35 Lærkehaven III</Navn>
+    <Postby>8520 Lystrup</Postby>
+  </row>
+  <row>
+    <AfdId>231</AfdId>
+    <SelId>6</SelId>
+    <Navn>Afd. 36 Havnen 1</Navn>
+    <Postby>8000 Århus C</Postby>
+  </row>
+  <row>
+    <AfdId>232</AfdId>
+    <SelId>6</SelId>
+    <Navn>Afd. 37 Havnen 2</Navn>
+    <Postby>8000 Århus C.</Postby>
+  </row>
+  <row>
+    <AfdId>233</AfdId>
+    <SelId>7</SelId>
+    <Navn>Afd. 01 Silkeborgvej</Navn>
+    <Postby>8000  Århus C</Postby>
+  </row>
+  <row>
+    <AfdId>234</AfdId>
+    <SelId>7</SelId>
+    <Navn>Afd. 02 Vestre Ringgade</Navn>
+    <Postby>8000  Århus C</Postby>
+  </row>
+  <row>
+    <AfdId>235</AfdId>
+    <SelId>7</SelId>
+    <Navn>Afd. 03 Paludan-Müllers Vej</Navn>
+    <Postby>8210 Århus V</Postby>
+  </row>
+  <row>
+    <AfdId>236</AfdId>
+    <SelId>7</SelId>
+    <Navn>Afd. 04 Nordborggade</Navn>
+    <Postby>8000  Århus C</Postby>
+  </row>
+  <row>
+    <AfdId>237</AfdId>
+    <SelId>7</SelId>
+    <Navn>Afd. 05 Jævndøgnsvej</Navn>
+    <Postby>8200 Århus N</Postby>
+  </row>
+  <row>
+    <AfdId>238</AfdId>
+    <SelId>7</SelId>
+    <Navn>Afd. 06 Silkeborgvej</Navn>
+    <Postby>8000 Århus C</Postby>
+  </row>
+  <row>
+    <AfdId>239</AfdId>
+    <SelId>7</SelId>
+    <Navn>Afd. 07 Illerupvej</Navn>
+    <Postby>8200 Århus N</Postby>
+  </row>
+  <row>
+    <AfdId>240</AfdId>
+    <SelId>7</SelId>
+    <Navn>Afd. 08 Holme Møllevej</Navn>
+    <Postby>8260  Viby J</Postby>
+  </row>
+  <row>
+    <AfdId>241</AfdId>
+    <SelId>7</SelId>
+    <Navn>Afd. 09 Kirkedammen</Navn>
+    <Postby>8000 Århus C</Postby>
+  </row>
+  <row>
+    <AfdId>242</AfdId>
+    <SelId>7</SelId>
+    <Navn>Afd. 10 Åbenrågade</Navn>
+    <Postby>8000  Århus C</Postby>
+  </row>
+  <row>
+    <AfdId>243</AfdId>
+    <SelId>7</SelId>
+    <Navn>Afd. 11 Neptunvej</Navn>
+    <Postby>8260  Viby J</Postby>
+  </row>
+  <row>
+    <AfdId>244</AfdId>
+    <SelId>7</SelId>
+    <Navn>Afd. 12 Neptunvej</Navn>
+    <Postby>8260  Viby J</Postby>
+  </row>
+  <row>
+    <AfdId>245</AfdId>
+    <SelId>7</SelId>
+    <Navn>Afd. 13 Neptunvej</Navn>
+    <Postby>8260  Viby J</Postby>
+  </row>
+  <row>
+    <AfdId>246</AfdId>
+    <SelId>7</SelId>
+    <Navn>Afd. 14 Frydenlund</Navn>
+    <Postby>8210  Århus V</Postby>
+  </row>
+  <row>
+    <AfdId>247</AfdId>
+    <SelId>7</SelId>
+    <Navn>Afd. 15 Frydenlund</Navn>
+    <Postby>8210 Århus V</Postby>
+  </row>
+  <row>
+    <AfdId>248</AfdId>
+    <SelId>7</SelId>
+    <Navn>Afd. 16 Græsvangen</Navn>
+    <Postby>8381  Tilst</Postby>
+  </row>
+  <row>
+    <AfdId>249</AfdId>
+    <SelId>7</SelId>
+    <Navn>Afd. 19 Rydevænget</Navn>
+    <Postby>8210 Århus V</Postby>
+  </row>
+  <row>
+    <AfdId>250</AfdId>
+    <SelId>7</SelId>
+    <Navn>Afd. 20 Vestergade</Navn>
+    <Postby>8000 Århus C</Postby>
+  </row>
+  <row>
+    <AfdId>251</AfdId>
+    <SelId>7</SelId>
+    <Navn>Afd. 22 Fjældevænget</Navn>
+    <Postby>8210  Århus V</Postby>
+  </row>
+  <row>
+    <AfdId>252</AfdId>
+    <SelId>7</SelId>
+    <Navn>Afd. 24 Bødker Balles Gård</Navn>
+    <Postby>8000 Århus C</Postby>
+  </row>
+  <row>
+    <AfdId>253</AfdId>
+    <SelId>7</SelId>
+    <Navn>Afd. 25 Skelagervej</Navn>
+    <Postby>8200 Århus N</Postby>
+  </row>
+  <row>
+    <AfdId>254</AfdId>
+    <SelId>7</SelId>
+    <Navn>Afd. 26 Skelagervej</Navn>
+    <Postby>8200  Århus N</Postby>
+  </row>
+  <row>
+    <AfdId>255</AfdId>
+    <SelId>7</SelId>
+    <Navn>Afd. 27 Skelagervej</Navn>
+    <Postby>8200 Århus N</Postby>
+  </row>
+  <row>
+    <AfdId>256</AfdId>
+    <SelId>7</SelId>
+    <Navn>Afd. 29 Sabro Vænge</Navn>
+    <Postby>8471 Sabro</Postby>
+  </row>
+  <row>
+    <AfdId>257</AfdId>
+    <SelId>7</SelId>
+    <Navn>Afd. 30 Rundhøj Allé</Navn>
+    <Postby>8270  Højbjerg</Postby>
+  </row>
+  <row>
+    <AfdId>258</AfdId>
+    <SelId>7</SelId>
+    <Navn>Afd. 31 Hjelmagerparken</Navn>
+    <Postby>8541  Skødstrup</Postby>
+  </row>
+  <row>
+    <AfdId>259</AfdId>
+    <SelId>7</SelId>
+    <Navn>Afd. 32 Engskovbakken</Navn>
+    <Postby>8541  Skødstrup</Postby>
+  </row>
+  <row>
+    <AfdId>260</AfdId>
+    <SelId>7</SelId>
+    <Navn>Afd. 33 Vistoftparken</Navn>
+    <Postby>8471 Sabro</Postby>
+  </row>
+  <row>
+    <AfdId>261</AfdId>
+    <SelId>7</SelId>
+    <Navn>Afd. 34 Holme Møllevej</Navn>
+    <Postby>8260  Viby J</Postby>
+  </row>
+  <row>
+    <AfdId>262</AfdId>
+    <SelId>7</SelId>
+    <Navn>Afd. 35 Skejbytoften</Navn>
+    <Postby>8200  Århus N</Postby>
+  </row>
+  <row>
+    <AfdId>263</AfdId>
+    <SelId>7</SelId>
+    <Navn>Afd. 36 Ladefogedvej</Navn>
+    <Postby>8200  Århus N</Postby>
+  </row>
+  <row>
+    <AfdId>264</AfdId>
+    <SelId>7</SelId>
+    <Navn>Afd. 37 Ladefogedvej</Navn>
+    <Postby>8200 Århus N</Postby>
+  </row>
+  <row>
+    <AfdId>265</AfdId>
+    <SelId>7</SelId>
+    <Navn>Afd. 38 Tousvej</Navn>
+    <Postby>8230</Postby>
+  </row>
+  <row>
+    <AfdId>266</AfdId>
+    <SelId>7</SelId>
+    <Navn>Afd. 39 Ranunkelvej</Navn>
+    <Postby>8471 Sabro</Postby>
+  </row>
+  <row>
+    <AfdId>267</AfdId>
+    <SelId>7</SelId>
+    <Navn>Afd. 40 Kløvermarsksvej</Navn>
+    <Postby>8200  Århus N</Postby>
+  </row>
+  <row>
+    <AfdId>268</AfdId>
+    <SelId>7</SelId>
+    <Navn>Afd. 41 Torpevænget</Navn>
+    <Postby>8210  Århus V</Postby>
+  </row>
+  <row>
+    <AfdId>269</AfdId>
+    <SelId>7</SelId>
+    <Navn>Afd. 42 Højagerparken</Navn>
+    <Postby>8471 Sabro</Postby>
+  </row>
+  <row>
+    <AfdId>270</AfdId>
+    <SelId>7</SelId>
+    <Navn>Afd. 43 Ladefogedvej</Navn>
+    <Postby>8200 Århus N</Postby>
+  </row>
+  <row>
+    <AfdId>271</AfdId>
+    <SelId>7</SelId>
+    <Navn>Afd. 45 Langørvej</Navn>
+    <Postby>8381 Tilst</Postby>
+  </row>
+  <row>
+    <AfdId>272</AfdId>
+    <SelId>7</SelId>
+    <Navn>Afd. 46 Herredsvej</Navn>
+    <Postby>8210  Århus V</Postby>
+  </row>
+  <row>
+    <AfdId>273</AfdId>
+    <SelId>7</SelId>
+    <Navn>Afd. 47 Oldjordsvej</Navn>
+    <Postby>8000  Århus C</Postby>
+  </row>
+  <row>
+    <AfdId>274</AfdId>
+    <SelId>7</SelId>
+    <Navn>Afd. 48 Stationsvangen</Navn>
+    <Postby>8541  Skødstrup</Postby>
+  </row>
+  <row>
+    <AfdId>275</AfdId>
+    <SelId>7</SelId>
+    <Navn>Afd. 49 Engskovvænget</Navn>
+    <Postby>8541 Skødstrup</Postby>
+  </row>
+  <row>
+    <AfdId>276</AfdId>
+    <SelId>7</SelId>
+    <Navn>Afd. 50 Lauritshøj</Navn>
+    <Postby>8541  Skødstrup</Postby>
+  </row>
+  <row>
+    <AfdId>277</AfdId>
+    <SelId>7</SelId>
+    <Navn>Afd. 51 Åbenrågade 9 A, 4.</Navn>
+    <Postby>8000  Århus C</Postby>
+  </row>
+  <row>
+    <AfdId>278</AfdId>
+    <SelId>8</SelId>
+    <Navn>Afd. 01 Søndermarksvej/Tværgade</Navn>
+    <Postby>8340 Malling</Postby>
+  </row>
+  <row>
+    <AfdId>279</AfdId>
+    <SelId>8</SelId>
+    <Navn>Afd. 02 Bredgade</Navn>
+    <Postby>8340 Malling</Postby>
+  </row>
+  <row>
+    <AfdId>280</AfdId>
+    <SelId>8</SelId>
+    <Navn>Afd. 03 Nyvej/Smedegårds Alle</Navn>
+    <Postby>8340 Malling</Postby>
+  </row>
+  <row>
+    <AfdId>281</AfdId>
+    <SelId>8</SelId>
+    <Navn>Afd. 04 Engdalgårdsvej</Navn>
+    <Postby>8330 Beder</Postby>
+  </row>
+  <row>
+    <AfdId>282</AfdId>
+    <SelId>8</SelId>
+    <Navn>Afd. 05 Stenhøjgårdsvej</Navn>
+    <Postby>8340 Malling</Postby>
+  </row>
+  <row>
+    <AfdId>283</AfdId>
+    <SelId>8</SelId>
+    <Navn>Afd. 06 Tværgade</Navn>
+    <Postby>8340 Malling</Postby>
+  </row>
+  <row>
+    <AfdId>284</AfdId>
+    <SelId>8</SelId>
+    <Navn>Afd. 07 Smedegårds Alle</Navn>
+    <Postby>8340 Malling</Postby>
+  </row>
+  <row>
+    <AfdId>285</AfdId>
+    <SelId>8</SelId>
+    <Navn>Afd. 08 Engkærgårds Alle</Navn>
+    <Postby>8340 Malling</Postby>
+  </row>
+  <row>
+    <AfdId>286</AfdId>
+    <SelId>8</SelId>
+    <Navn>Afd. 9 Mallinggårdsvej</Navn>
+    <Postby>8340 Malling</Postby>
+  </row>
+  <row>
+    <AfdId>287</AfdId>
+    <SelId>8</SelId>
+    <Navn>Afd. 11 Markskellet</Navn>
+    <Postby>8340 Malling</Postby>
+  </row>
+  <row>
+    <AfdId>288</AfdId>
+    <SelId>8</SelId>
+    <Navn>Afd. 14 Moselunden</Navn>
+    <Postby>8340 Malling</Postby>
+  </row>
+  <row>
+    <AfdId>289</AfdId>
+    <SelId>8</SelId>
+    <Navn>Afd. 15, Veilgårdsparken</Navn>
+    <Postby>8340 Malling</Postby>
+  </row>
+  <row>
+    <AfdId>290</AfdId>
+    <SelId>8</SelId>
+    <Navn>Afd. 16 Starupvej</Navn>
+    <Postby>8340 Malling</Postby>
+  </row>
+  <row>
+    <AfdId>291</AfdId>
+    <SelId>9</SelId>
+    <Navn>Afd. 01 Præstevangen</Navn>
+    <Postby>8260  Viby J</Postby>
+  </row>
+  <row>
+    <AfdId>292</AfdId>
+    <SelId>9</SelId>
+    <Navn>Afd. 02 Rosenhøj</Navn>
+    <Postby>8260  Viby J</Postby>
+  </row>
+  <row>
+    <AfdId>293</AfdId>
+    <SelId>9</SelId>
+    <Navn>Afd. 06 Elstedhøj</Navn>
+    <Postby>8520  Lystrup</Postby>
+  </row>
+  <row>
+    <AfdId>294</AfdId>
+    <SelId>9</SelId>
+    <Navn>Afd. 09 Grøfthøjparken</Navn>
+    <Postby>8260  Viby J</Postby>
+  </row>
+  <row>
+    <AfdId>295</AfdId>
+    <SelId>9</SelId>
+    <Navn>Afd. 10 Skovhøj</Navn>
+    <Postby>8361  Hasselager</Postby>
+  </row>
+  <row>
+    <AfdId>296</AfdId>
+    <SelId>9</SelId>
+    <Navn>Afd. 11 Egevangen</Navn>
+    <Postby>8355  Solbjerg</Postby>
+  </row>
+  <row>
+    <AfdId>297</AfdId>
+    <SelId>9</SelId>
+    <Navn>Afd. 14 Majsmarken</Navn>
+    <Postby>8520 Lystrup</Postby>
+  </row>
+  <row>
+    <AfdId>298</AfdId>
+    <SelId>9</SelId>
+    <Navn>Afd. 16 Matildelundsvej (ungdomsboliger)</Navn>
+    <Postby>8260  Viby J</Postby>
+  </row>
+  <row>
+    <AfdId>299</AfdId>
+    <SelId>9</SelId>
+    <Navn>Afd. 17 Skovhøj</Navn>
+    <Postby>8361  Hasselager</Postby>
+  </row>
+  <row>
+    <AfdId>300</AfdId>
+    <SelId>9</SelId>
+    <Navn>Afd. 18 Fuglekærvænget</Navn>
+    <Postby>8361  Hasselager</Postby>
+  </row>
+  <row>
+    <AfdId>301</AfdId>
+    <SelId>9</SelId>
+    <Navn>Afd. 19 Elevparken</Navn>
+    <Postby>8520</Postby>
+  </row>
+  <row>
+    <AfdId>302</AfdId>
+    <SelId>9</SelId>
+    <Navn>Afd. 20 Pilevangen</Navn>
+    <Postby>8355  Solbjerg</Postby>
+  </row>
+  <row>
+    <AfdId>303</AfdId>
+    <SelId>9</SelId>
+    <Navn>Afd. 21 Møllevangs Allé/Fuglesangs Allé</Navn>
+    <Postby>8210  Århus V</Postby>
+  </row>
+  <row>
+    <AfdId>304</AfdId>
+    <SelId>9</SelId>
+    <Navn>Afd. 22 Borgmester Jakob Jensens Gade</Navn>
+    <Postby>8000  Århus C</Postby>
+  </row>
+  <row>
+    <AfdId>305</AfdId>
+    <SelId>9</SelId>
+    <Navn>Afd. 23 Markus Kirkeplads/Grønnegade</Navn>
+    <Postby>8000  Århus C</Postby>
+  </row>
+  <row>
+    <AfdId>306</AfdId>
+    <SelId>9</SelId>
+    <Navn>Afd. 25 Finsensgade</Navn>
+    <Postby>8200 Århus N</Postby>
+  </row>
+  <row>
+    <AfdId>307</AfdId>
+    <SelId>10</SelId>
+    <Navn>Afd. 01 Grundtvigsvej</Navn>
+    <Postby>8260  Viby J.</Postby>
+  </row>
+  <row>
+    <AfdId>308</AfdId>
+    <SelId>10</SelId>
+    <Navn>Afd. 02 Højbjergparken</Navn>
+    <Postby>8270  Højbjerg</Postby>
+  </row>
+  <row>
+    <AfdId>309</AfdId>
+    <SelId>10</SelId>
+    <Navn>Afd. 03 Runde gård</Navn>
+    <Postby>8260   Viby J.</Postby>
+  </row>
+  <row>
+    <AfdId>310</AfdId>
+    <SelId>10</SelId>
+    <Navn>Afd. 04 Frederiksparken</Navn>
+    <Postby>8270 Højbjerg</Postby>
+  </row>
+  <row>
+    <AfdId>311</AfdId>
+    <SelId>10</SelId>
+    <Navn>Afd. 05 Øster Alle</Navn>
+    <Postby>8260 Viby J.</Postby>
+  </row>
+  <row>
+    <AfdId>312</AfdId>
+    <SelId>10</SelId>
+    <Navn>Afd. 06 Hømosevej</Navn>
+    <Postby>8260  Viby J.</Postby>
+  </row>
+  <row>
+    <AfdId>313</AfdId>
+    <SelId>10</SelId>
+    <Navn>Afd. 07 Saralystparken</Navn>
+    <Postby>8270 Højbjerg</Postby>
+  </row>
+  <row>
+    <AfdId>314</AfdId>
+    <SelId>10</SelId>
+    <Navn>Afd. 08 Byvangen</Navn>
+    <Postby>8260  Viby J.</Postby>
+  </row>
+  <row>
+    <AfdId>315</AfdId>
+    <SelId>10</SelId>
+    <Navn>Afd. 09 Saralystparken</Navn>
+    <Postby>8270 Højbjerg</Postby>
+  </row>
+  <row>
+    <AfdId>316</AfdId>
+    <SelId>10</SelId>
+    <Navn>Afd. 10 Lykkesholms Allé</Navn>
+    <Postby>8260  Viby J.</Postby>
+  </row>
+  <row>
+    <AfdId>317</AfdId>
+    <SelId>10</SelId>
+    <Navn>Afd. 11 Vestergårdsparken</Navn>
+    <Postby>8260  Viby J.</Postby>
+  </row>
+  <row>
+    <AfdId>318</AfdId>
+    <SelId>10</SelId>
+    <Navn>Afd. 12 Grønnegården</Navn>
+    <Postby>8260  Viby J.</Postby>
+  </row>
+  <row>
+    <AfdId>319</AfdId>
+    <SelId>10</SelId>
+    <Navn>Afd. 13 Stenkildeparken</Navn>
+    <Postby>8260  Viby J.</Postby>
+  </row>
+  <row>
+    <AfdId>320</AfdId>
+    <SelId>10</SelId>
+    <Navn>Afd. 14 Altangangshuset</Navn>
+    <Postby>8260  Viby J.</Postby>
+  </row>
+  <row>
+    <AfdId>321</AfdId>
+    <SelId>10</SelId>
+    <Navn>Afd. 15 Dalvangen</Navn>
+    <Postby>8270 Højbjerg</Postby>
+  </row>
+  <row>
+    <AfdId>322</AfdId>
+    <SelId>10</SelId>
+    <Navn>Afd. 16 Høvænget</Navn>
+    <Postby>8260  Viby J.</Postby>
+  </row>
+  <row>
+    <AfdId>323</AfdId>
+    <SelId>10</SelId>
+    <Navn>Afd. 17 M.P. Hansens Vej</Navn>
+    <Postby>8270 Højbjerg</Postby>
+  </row>
+  <row>
+    <AfdId>324</AfdId>
+    <SelId>10</SelId>
+    <Navn>Afd. 18 Ny Vestergårdspark 1</Navn>
+    <Postby>8260  Viby J.</Postby>
+  </row>
+  <row>
+    <AfdId>325</AfdId>
+    <SelId>10</SelId>
+    <Navn>Afd. 19 Ny Vestergårdspark 2</Navn>
+    <Postby>8260  Viby J.</Postby>
+  </row>
+  <row>
+    <AfdId>326</AfdId>
+    <SelId>10</SelId>
+    <Navn>Afd. 20 Elverdalsparken</Navn>
+    <Postby>8270 Højbjerg</Postby>
+  </row>
+  <row>
+    <AfdId>327</AfdId>
+    <SelId>10</SelId>
+    <Navn>Afd. 21 Gartnervænget</Navn>
+    <Postby>8310 Tranbjerg J</Postby>
+  </row>
+  <row>
+    <AfdId>328</AfdId>
+    <SelId>10</SelId>
+    <Navn>Afd. 22 Olaf Rudes Vej</Navn>
+    <Postby>8270 Højbjerg</Postby>
+  </row>
+  <row>
+    <AfdId>329</AfdId>
+    <SelId>10</SelId>
+    <Navn>Afd. 23 Rundhøj I</Navn>
+    <Postby>8270 Højbjerg</Postby>
+  </row>
+  <row>
+    <AfdId>330</AfdId>
+    <SelId>10</SelId>
+    <Navn>Afd. 24 Gl. Søndervangen</Navn>
+    <Postby>8260  Viby J.</Postby>
+  </row>
+  <row>
+    <AfdId>331</AfdId>
+    <SelId>10</SelId>
+    <Navn>Afd. 25 Rundhøj Allé II</Navn>
+    <Postby>8270 Højbjerg</Postby>
+  </row>
+  <row>
+    <AfdId>332</AfdId>
+    <SelId>10</SelId>
+    <Navn>Afd. 26 Kjærslund</Navn>
+    <Postby>8260  Viby J.</Postby>
+  </row>
+  <row>
+    <AfdId>333</AfdId>
+    <SelId>10</SelId>
+    <Navn>Afd. 27 Ny Vestergårdspark 3</Navn>
+    <Postby>8260  Viby J.</Postby>
+  </row>
+  <row>
+    <AfdId>334</AfdId>
+    <SelId>10</SelId>
+    <Navn>Afd. 28 Gyvelparken</Navn>
+    <Postby>8464 Galten</Postby>
+  </row>
+  <row>
+    <AfdId>335</AfdId>
+    <SelId>10</SelId>
+    <Navn>Afd. 29 Kærgårdsparken</Navn>
+    <Postby>8355  Solbjerg</Postby>
+  </row>
+  <row>
+    <AfdId>336</AfdId>
+    <SelId>10</SelId>
+    <Navn>Afd. 30 - Rundhøj Kollegiet (ungdomsboliger)</Navn>
+    <Postby>8270 Højbjerg</Postby>
+  </row>
+  <row>
+    <AfdId>337</AfdId>
+    <SelId>10</SelId>
+    <Navn>Afd. 31 Ny Søndervangen</Navn>
+    <Postby>8260  Viby J.</Postby>
+  </row>
+  <row>
+    <AfdId>338</AfdId>
+    <SelId>10</SelId>
+    <Navn>Afd. 33 Abildgade</Navn>
+    <Postby>8200 Århus N</Postby>
+  </row>
+  <row>
+    <AfdId>339</AfdId>
+    <SelId>10</SelId>
+    <Navn>Afd. 34 Vårkjærparken</Navn>
+    <Postby>8260  Viby J.</Postby>
+  </row>
+  <row>
+    <AfdId>340</AfdId>
+    <SelId>10</SelId>
+    <Navn>Afd. 35 Kalkærparken</Navn>
+    <Postby>8270  Højbjerg</Postby>
+  </row>
+  <row>
+    <AfdId>341</AfdId>
+    <SelId>10</SelId>
+    <Navn>Afd. 36 Byagerparken</Navn>
+    <Postby>8330  Beder</Postby>
+  </row>
+  <row>
+    <AfdId>342</AfdId>
+    <SelId>10</SelId>
+    <Navn>Afd. 37 Vejlby Vest</Navn>
+    <Postby>8240  Risskov</Postby>
+  </row>
+  <row>
+    <AfdId>343</AfdId>
+    <SelId>10</SelId>
+    <Navn>Afd. 38 Tranbjergparken</Navn>
+    <Postby>8310 Tranbjerg J</Postby>
+  </row>
+  <row>
+    <AfdId>344</AfdId>
+    <SelId>10</SelId>
+    <Navn>Afd. 39 Hjulbjergvej</Navn>
+    <Postby>8270 Højbjerg</Postby>
+  </row>
+  <row>
+    <AfdId>345</AfdId>
+    <SelId>10</SelId>
+    <Navn>Afd. 40 Håndværkerparken</Navn>
+    <Postby>8270 Højbjerg</Postby>
+  </row>
+  <row>
+    <AfdId>346</AfdId>
+    <SelId>10</SelId>
+    <Navn>Afd. 41 L.A. Rings Vej</Navn>
+    <Postby>8270 Højbjerg</Postby>
+  </row>
+  <row>
+    <AfdId>347</AfdId>
+    <SelId>10</SelId>
+    <Navn>Afd. 42 Egelundsparken</Navn>
+    <Postby>8330  Beder</Postby>
+  </row>
+  <row>
+    <AfdId>348</AfdId>
+    <SelId>10</SelId>
+    <Navn>Afd. 43 Håndværkerparken</Navn>
+    <Postby>8270 Højbjerg</Postby>
+  </row>
+  <row>
+    <AfdId>349</AfdId>
+    <SelId>10</SelId>
+    <Navn>Afd. 44 Fiskergade</Navn>
+    <Postby>8000 Århus C</Postby>
+  </row>
+  <row>
+    <AfdId>350</AfdId>
+    <SelId>10</SelId>
+    <Navn>Afd. 45 Håndværkerparken (bofællesskab)</Navn>
+    <Postby>8270 Højbjerg</Postby>
+  </row>
+  <row>
+    <AfdId>351</AfdId>
+    <SelId>10</SelId>
+    <Navn>Afd. 46 Hirsevænget</Navn>
+    <Postby>8464  Galten</Postby>
+  </row>
+  <row>
+    <AfdId>352</AfdId>
+    <SelId>10</SelId>
+    <Navn>Afd. 47 Råhøjparken</Navn>
+    <Postby>8260  Viby J.</Postby>
+  </row>
+  <row>
+    <AfdId>353</AfdId>
+    <SelId>10</SelId>
+    <Navn>Afd. 48 Virkelyst (ældreboliger)</Navn>
+    <Postby>8464  Galten</Postby>
+  </row>
+  <row>
+    <AfdId>354</AfdId>
+    <SelId>10</SelId>
+    <Navn>Afd. 49 Håndværkerparken</Navn>
+    <Postby>8270 Højbjerg</Postby>
+  </row>
+  <row>
+    <AfdId>355</AfdId>
+    <SelId>10</SelId>
+    <Navn>Afd. 51 - RyBo (ungdomsboliger)</Navn>
+    <Postby>8210 Århus V.</Postby>
+  </row>
+  <row>
+    <AfdId>356</AfdId>
+    <SelId>10</SelId>
+    <Navn>Afd. 52 - KatrineBo (ungdomsboliger)</Navn>
+    <Postby>8200  Århus N.</Postby>
+  </row>
+  <row>
+    <AfdId>357</AfdId>
+    <SelId>10</SelId>
+    <Navn>Afd. 53 Håndværkerparken</Navn>
+    <Postby>8270  Højbjerg</Postby>
+  </row>
+  <row>
+    <AfdId>358</AfdId>
+    <SelId>10</SelId>
+    <Navn>Afd. 54 Bavnebakken</Navn>
+    <Postby>8361  Hasselager</Postby>
+  </row>
+  <row>
+    <AfdId>359</AfdId>
+    <SelId>10</SelId>
+    <Navn>Afd. 55 - Bavnebakken (ældreboliger)</Navn>
+    <Postby>8361 Hasselager</Postby>
+  </row>
+  <row>
+    <AfdId>360</AfdId>
+    <SelId>10</SelId>
+    <Navn>Afd. 57 Ingerslevs Boulevard</Navn>
+    <Postby>8000  Århus C.</Postby>
+  </row>
+  <row>
+    <AfdId>361</AfdId>
+    <SelId>10</SelId>
+    <Navn>Afd. 58 Damtoften (ungdomsboliger)</Navn>
+    <Postby>8260  Viby J.</Postby>
+  </row>
+  <row>
+    <AfdId>362</AfdId>
+    <SelId>10</SelId>
+    <Navn>Afd. 59 Generatoren (ungdomsboliger)</Navn>
+    <Postby>8464  Galten</Postby>
+  </row>
+  <row>
+    <AfdId>363</AfdId>
+    <SelId>10</SelId>
+    <Navn>Afd. 60 Håndværkerparken</Navn>
+    <Postby>8270  Højbjerg</Postby>
+  </row>
+  <row>
+    <AfdId>364</AfdId>
+    <SelId>10</SelId>
+    <Navn>Afd. 61 Stavtrup Vænge</Navn>
+    <Postby>8260  Viby J.</Postby>
+  </row>
+  <row>
+    <AfdId>365</AfdId>
+    <SelId>10</SelId>
+    <Navn>Afd. 62 Absalonsgade (ældreboliger)</Navn>
+    <Postby>8000  Århus C</Postby>
+  </row>
+  <row>
+    <AfdId>366</AfdId>
+    <SelId>10</SelId>
+    <Navn>Afd. 63 Bøgeskovparken</Navn>
+    <Postby>8260  Viby J.</Postby>
+  </row>
+  <row>
+    <AfdId>367</AfdId>
+    <SelId>10</SelId>
+    <Navn>Afd. 64 Børupvej</Navn>
+    <Postby>8310  Tranbjerg</Postby>
+  </row>
+  <row>
+    <AfdId>368</AfdId>
+    <SelId>10</SelId>
+    <Navn>Afd. 66 Håndværkerparken</Navn>
+    <Postby>8270  Højbjerg</Postby>
+  </row>
+  <row>
+    <AfdId>369</AfdId>
+    <SelId>10</SelId>
+    <Navn>Afd. 67 Kunneruphøj</Navn>
+    <Postby>8361  Hasselager</Postby>
+  </row>
+  <row>
+    <AfdId>370</AfdId>
+    <SelId>10</SelId>
+    <Navn>Afd. 68 Holme Parkvej (+55)</Navn>
+    <Postby>8270 Højbjerg</Postby>
+  </row>
+  <row>
+    <AfdId>371</AfdId>
+    <SelId>10</SelId>
+    <Navn>Afd. 69 Håndværkerparken</Navn>
+    <Postby>8270  Højbjerg</Postby>
+  </row>
+  <row>
+    <AfdId>372</AfdId>
+    <SelId>10</SelId>
+    <Navn>Afd. 70 Jegstruphøj (+55)</Navn>
+    <Postby>8361  Hasselager</Postby>
+  </row>
+  <row>
+    <AfdId>373</AfdId>
+    <SelId>10</SelId>
+    <Navn>Afd. 71 Porskær (ældreboliger)</Navn>
+    <Postby>8464 Galten</Postby>
+  </row>
+  <row>
+    <AfdId>374</AfdId>
+    <SelId>10</SelId>
+    <Navn>Afd. 72 Klokkeblomstvej (+55)</Navn>
+    <Postby>8260  Viby J.</Postby>
+  </row>
+  <row>
+    <AfdId>375</AfdId>
+    <SelId>10</SelId>
+    <Navn>Afd. 73 Frisenholt (+55)</Navn>
+    <Postby>8310 Tranbjerg</Postby>
+  </row>
+  <row>
+    <AfdId>376</AfdId>
+    <SelId>10</SelId>
+    <Navn>Afd. 74 Frisenholt</Navn>
+    <Postby>8310 Tranbjerg</Postby>
+  </row>
+  <row>
+    <AfdId>377</AfdId>
+    <SelId>10</SelId>
+    <Navn>Afd. 75 Søndervangskollegiet (ungdomsboliger)</Navn>
+    <Postby>8260  Viby J.</Postby>
+  </row>
+  <row>
+    <AfdId>378</AfdId>
+    <SelId>10</SelId>
+    <Navn>Afd. 76 Engelundsvej (+55)</Navn>
+    <Postby>8260  Viby J.</Postby>
+  </row>
+  <row>
+    <AfdId>379</AfdId>
+    <SelId>10</SelId>
+    <Navn>Afd. 77 Hvidmosegård (+55)</Navn>
+    <Postby>8270  Højbjerg</Postby>
+  </row>
+  <row>
+    <AfdId>380</AfdId>
+    <SelId>10</SelId>
+    <Navn>Afd. 78 Engelundsvej</Navn>
+    <Postby>8260  Viby J.</Postby>
+  </row>
+  <row>
+    <AfdId>381</AfdId>
+    <SelId>10</SelId>
+    <Navn>Afd. 79 Pilevangen (+55)</Navn>
+    <Postby>8355 Solbjerg</Postby>
+  </row>
+  <row>
+    <AfdId>382</AfdId>
+    <SelId>10</SelId>
+    <Navn>Afd. 80, Salamanderparken</Navn>
+    <Postby>8260 Viby J.</Postby>
+  </row>
+  <row>
+    <AfdId>383</AfdId>
+    <SelId>10</SelId>
+    <Navn>Afd. 903, Egmontgården K 2 (ungdomsboliger)</Navn>
+    <Postby>8260 Viby J.</Postby>
+  </row>
+  <row>
+    <AfdId>384</AfdId>
+    <SelId>11</SelId>
+    <Navn>Afd. 01 Villabyen Skovbakken</Navn>
+    <Postby>8200  Århus N.</Postby>
+  </row>
+  <row>
+    <AfdId>385</AfdId>
+    <SelId>11</SelId>
+    <Navn>Afd. 02 Nordre Bydel I</Navn>
+    <Postby>8200  Århus N.</Postby>
+  </row>
+  <row>
+    <AfdId>386</AfdId>
+    <SelId>11</SelId>
+    <Navn>Afd. 03 Nordre Bydel II</Navn>
+    <Postby>8200  Århus N.</Postby>
+  </row>
+  <row>
+    <AfdId>387</AfdId>
+    <SelId>11</SelId>
+    <Navn>Afd. 04 Skovkanten</Navn>
+    <Postby>8200  Århus N.</Postby>
+  </row>
+  <row>
+    <AfdId>388</AfdId>
+    <SelId>11</SelId>
+    <Navn>Afd. 05 Teglgården</Navn>
+    <Postby>8000  Århus C.</Postby>
+  </row>
+  <row>
+    <AfdId>389</AfdId>
+    <SelId>11</SelId>
+    <Navn>Afd. 06 Ingerslevgården</Navn>
+    <Postby>8000  Århus C.</Postby>
+  </row>
+  <row>
+    <AfdId>390</AfdId>
+    <SelId>11</SelId>
+    <Navn>Afd. 07 Ringkøbingvej</Navn>
+    <Postby>8000  Århus C.</Postby>
+  </row>
+  <row>
+    <AfdId>391</AfdId>
+    <SelId>11</SelId>
+    <Navn>Afd. 08 Marselisgården I</Navn>
+    <Postby>8000  Århus C.</Postby>
+  </row>
+  <row>
+    <AfdId>392</AfdId>
+    <SelId>11</SelId>
+    <Navn>Afd. 09 Viborggård</Navn>
+    <Postby>8000  Århus C.</Postby>
+  </row>
+  <row>
+    <AfdId>393</AfdId>
+    <SelId>11</SelId>
+    <Navn>Afd. 10 Skovfaldet</Navn>
+    <Postby>8200  Århus N.</Postby>
+  </row>
+  <row>
+    <AfdId>394</AfdId>
+    <SelId>11</SelId>
+    <Navn>Afd. 11 Riisvangen I</Navn>
+    <Postby>8200  Århus N.</Postby>
+  </row>
+  <row>
+    <AfdId>395</AfdId>
+    <SelId>11</SelId>
+    <Navn>Afd. 12 Riisvangen II</Navn>
+    <Postby>8200  Århus N.</Postby>
+  </row>
+  <row>
+    <AfdId>396</AfdId>
+    <SelId>11</SelId>
+    <Navn>Afd. 13 Riisvangen III</Navn>
+    <Postby>8200  Århus N.</Postby>
+  </row>
+  <row>
+    <AfdId>397</AfdId>
+    <SelId>11</SelId>
+    <Navn>Afd. 14 Rytterparken</Navn>
+    <Postby>8200  Århus N.</Postby>
+  </row>
+  <row>
+    <AfdId>398</AfdId>
+    <SelId>11</SelId>
+    <Navn>Afd. 15 Skovvangsparken</Navn>
+    <Postby>8200  Århus N.</Postby>
+  </row>
+  <row>
+    <AfdId>399</AfdId>
+    <SelId>11</SelId>
+    <Navn>Afd. 16 Charlottehøj</Navn>
+    <Postby>8210  Århus V.</Postby>
+  </row>
+  <row>
+    <AfdId>400</AfdId>
+    <SelId>11</SelId>
+    <Navn>Afd. 17 Vorrevangen I</Navn>
+    <Postby>8200  Århus N.</Postby>
+  </row>
+  <row>
+    <AfdId>401</AfdId>
+    <SelId>11</SelId>
+    <Navn>Afd. 18 Vorrevangen II</Navn>
+    <Postby>8200  Århus N.</Postby>
+  </row>
+  <row>
+    <AfdId>402</AfdId>
+    <SelId>11</SelId>
+    <Navn>Afd. 19 Vorrevangsparken</Navn>
+    <Postby>8200  Århus N.</Postby>
+  </row>
+  <row>
+    <AfdId>403</AfdId>
+    <SelId>11</SelId>
+    <Navn>Afd. 20 Niels Ebbesens gård</Navn>
+    <Postby>8200  Århus N.</Postby>
+  </row>
+  <row>
+    <AfdId>404</AfdId>
+    <SelId>11</SelId>
+    <Navn>Afd. 21 Langenæs I</Navn>
+    <Postby>8000  Århus C.</Postby>
+  </row>
+  <row>
+    <AfdId>405</AfdId>
+    <SelId>11</SelId>
+    <Navn>Afd. 22 Langenæs II</Navn>
+    <Postby>8000  Århus C.</Postby>
+  </row>
+  <row>
+    <AfdId>406</AfdId>
+    <SelId>11</SelId>
+    <Navn>Afd. 23 Kridthøjparken</Navn>
+    <Postby>8270  Højbjerg</Postby>
+  </row>
+  <row>
+    <AfdId>407</AfdId>
+    <SelId>11</SelId>
+    <Navn>Afd. 24 Skovgårdsparken</Navn>
+    <Postby>8220  Brabrand</Postby>
+  </row>
+  <row>
+    <AfdId>408</AfdId>
+    <SelId>11</SelId>
+    <Navn>Afd. 25 Klostervangen</Navn>
+    <Postby>8000  Århus C.</Postby>
+  </row>
+  <row>
+    <AfdId>409</AfdId>
+    <SelId>11</SelId>
+    <Navn>Afd. 26 Egå I</Navn>
+    <Postby>8250  Egå</Postby>
+  </row>
+  <row>
+    <AfdId>410</AfdId>
+    <SelId>11</SelId>
+    <Navn>Afd. 28 Rundhøj</Navn>
+    <Postby>8270  Højbjerg</Postby>
+  </row>
+  <row>
+    <AfdId>411</AfdId>
+    <SelId>11</SelId>
+    <Navn>Afd. 29 Højhuset Langenæs</Navn>
+    <Postby>8000  Århus C.</Postby>
+  </row>
+  <row>
+    <AfdId>412</AfdId>
+    <SelId>11</SelId>
+    <Navn>Afd. 30 Frydenlund</Navn>
+    <Postby>8210  Århus V.</Postby>
+  </row>
+  <row>
+    <AfdId>413</AfdId>
+    <SelId>11</SelId>
+    <Navn>Afd. 31 Postgården</Navn>
+    <Postby>8270  Højbjerg</Postby>
+  </row>
+  <row>
+    <AfdId>414</AfdId>
+    <SelId>11</SelId>
+    <Navn>Afd. 32 Abildhaven</Navn>
+    <Postby>8200  Århus N.</Postby>
+  </row>
+  <row>
+    <AfdId>415</AfdId>
+    <SelId>11</SelId>
+    <Navn>afd. 33 Præstehaven</Navn>
+    <Postby>8362 Hørning</Postby>
+  </row>
+  <row>
+    <AfdId>416</AfdId>
+    <SelId>11</SelId>
+    <Navn>Afd. 34 Mølleparken</Navn>
+    <Postby>8362  Hørning</Postby>
+  </row>
+  <row>
+    <AfdId>417</AfdId>
+    <SelId>11</SelId>
+    <Navn>Afd. 35 Trillegården</Navn>
+    <Postby>8210  Århus V.</Postby>
+  </row>
+  <row>
+    <AfdId>418</AfdId>
+    <SelId>11</SelId>
+    <Navn>afd. 36 Abildgade</Navn>
+    <Postby>8200</Postby>
+  </row>
+  <row>
+    <AfdId>419</AfdId>
+    <SelId>11</SelId>
+    <Navn>Afd. 37 Fjældevænget</Navn>
+    <Postby>8210  Århus V.</Postby>
+  </row>
+  <row>
+    <AfdId>420</AfdId>
+    <SelId>11</SelId>
+    <Navn>Afd. 38 Sandkåsparken</Navn>
+    <Postby>8210  Århus V.</Postby>
+  </row>
+  <row>
+    <AfdId>421</AfdId>
+    <SelId>11</SelId>
+    <Navn>afd. 39 Sandkåsparken II</Navn>
+    <Postby>8200 Århus N</Postby>
+  </row>
+  <row>
+    <AfdId>422</AfdId>
+    <SelId>11</SelId>
+    <Navn>Afd. 40 Veri I</Navn>
+    <Postby>8240  Risskov</Postby>
+  </row>
+  <row>
+    <AfdId>423</AfdId>
+    <SelId>11</SelId>
+    <Navn>Afd. 41 Veri II</Navn>
+    <Postby>8240  Risskov</Postby>
+  </row>
+  <row>
+    <AfdId>424</AfdId>
+    <SelId>11</SelId>
+    <Navn>Afd. 47 Egå II</Navn>
+    <Postby>8250  Egå</Postby>
+  </row>
+  <row>
+    <AfdId>425</AfdId>
+    <SelId>11</SelId>
+    <Navn>Afd. 48 Egå III</Navn>
+    <Postby>8250  Egå</Postby>
+  </row>
+  <row>
+    <AfdId>426</AfdId>
+    <SelId>11</SelId>
+    <Navn>Afd. 52 Skådeparken</Navn>
+    <Postby>8270  Højbjerg</Postby>
+  </row>
+  <row>
+    <AfdId>427</AfdId>
+    <SelId>11</SelId>
+    <Navn>Afd. 53 Bushøjen</Navn>
+    <Postby>8270  Højbjerg</Postby>
+  </row>
+  <row>
+    <AfdId>428</AfdId>
+    <SelId>11</SelId>
+    <Navn>Afd. 54 Grønningen</Navn>
+    <Postby>8362  Hørning</Postby>
+  </row>
+  <row>
+    <AfdId>429</AfdId>
+    <SelId>11</SelId>
+    <Navn>Afd. 56 Nøddeskrænten</Navn>
+    <Postby>8270  Højbjerg</Postby>
+  </row>
+  <row>
+    <AfdId>430</AfdId>
+    <SelId>11</SelId>
+    <Navn>Afd. 57 ungdomsbolig Trillegården</Navn>
+    <Postby>8210 Århus C</Postby>
+  </row>
+  <row>
+    <AfdId>431</AfdId>
+    <SelId>11</SelId>
+    <Navn>Afd. 58 Roukær</Navn>
+    <Postby>8270  Højbjerg</Postby>
+  </row>
+  <row>
+    <AfdId>432</AfdId>
+    <SelId>11</SelId>
+    <Navn>Afd. 59 Spongparken</Navn>
+    <Postby>8362  Hørning</Postby>
+  </row>
+  <row>
+    <AfdId>433</AfdId>
+    <SelId>11</SelId>
+    <Navn>Afd. 60 Frederiksbjerg-bo</Navn>
+    <Postby>8000  Århus C.</Postby>
+  </row>
+  <row>
+    <AfdId>434</AfdId>
+    <SelId>11</SelId>
+    <Navn>Afd. 61 Skovkollegiet</Navn>
+    <Postby>8210</Postby>
+  </row>
+  <row>
+    <AfdId>435</AfdId>
+    <SelId>11</SelId>
+    <Navn>Afd. 62 Hasle-bo</Navn>
+    <Postby>8200  Århus N.</Postby>
+  </row>
+  <row>
+    <AfdId>436</AfdId>
+    <SelId>11</SelId>
+    <Navn>Afd. 63 Postgården</Navn>
+    <Postby>8270 Højbjerg</Postby>
+  </row>
+  <row>
+    <AfdId>437</AfdId>
+    <SelId>11</SelId>
+    <Navn>Afd. 64 Ved Skoven</Navn>
+    <Postby>8210</Postby>
+  </row>
+  <row>
+    <AfdId>438</AfdId>
+    <SelId>11</SelId>
+    <Navn>Afd. 65 Æblelunden</Navn>
+    <Postby>8530 Hjortshøj</Postby>
+  </row>
+  <row>
+    <AfdId>439</AfdId>
+    <SelId>11</SelId>
+    <Navn>Afd. 71 Nykersvej</Navn>
+    <Postby>8210  Århus V.</Postby>
+  </row>
+  <row>
+    <AfdId>440</AfdId>
+    <SelId>11</SelId>
+    <Navn>Afd. 72 Nygade</Navn>
+    <Postby>8000  Århus C.</Postby>
+  </row>
+  <row>
+    <AfdId>441</AfdId>
+    <SelId>11</SelId>
+    <Navn>Afd. 73 Fænøgade/Graven/Volden</Navn>
+    <Postby>8000  Århus C.</Postby>
+  </row>
+  <row>
+    <AfdId>442</AfdId>
+    <SelId>11</SelId>
+    <Navn>Afd. 74 Nørregade/Nørreport</Navn>
+    <Postby>8000  Århus C.</Postby>
+  </row>
+  <row>
+    <AfdId>443</AfdId>
+    <SelId>11</SelId>
+    <Navn>Afd. 75 Havnen</Navn>
+    <Postby>8000 Århus C</Postby>
+  </row>
+  <row>
+    <AfdId>444</AfdId>
+    <SelId>11</SelId>
+    <Navn>Afd. 160 Ældreboliger Frederiksbjerg-bo</Navn>
+    <Postby>8000 Århus C</Postby>
+  </row>
+</Afdelinger>

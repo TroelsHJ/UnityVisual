@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?>
+<Selskaber>
+  <row>
+    <SelId>1</SelId>
+    <Navn>Boligkontoret Århus</Navn>
+    <Tlf>87393939</Tlf>
+    <Email>udlejning@bk-aarhus.dk</Email>
+  </row>
+  <row>
+    <SelId>2</SelId>
+    <Navn>Østjysk Boligadministration</Navn>
+    <Tlf>86156688</Tlf>
+    <Email>udlejning@ojba.dk</Email>
+  </row>
+  <row>
+    <SelId>3</SelId>
+    <Navn>AL2bolig</Navn>
+    <Tlf>87 45 91 91</Tlf>
+    <Email>info@AL2bolig.dk</Email>
+  </row>
+  <row>
+    <SelId>4</SelId>
+    <Navn>Boligforeningen 10. marts 1943</Navn>
+    <Tlf>86211255</Tlf>
+    <Email>bo43@vejlby-bf.dk</Email>
+  </row>
+  <row>
+    <SelId>5</SelId>
+    <Navn>Brabrand Boligforening</Navn>
+    <Tlf>8931 7171</Tlf>
+    <Email>tilbud@bbbo.dk</Email>
+  </row>
+  <row>
+    <SelId>6</SelId>
+    <Navn>Boligforeningen Ringgården</Navn>
+    <Tlf>88303050</Tlf>
+    <Email>udlej@bf-ringgaarden.dk</Email>
+  </row>
+  <row>
+    <SelId>7</SelId>
+    <Navn>AlmenBo-Aarhus</Navn>
+    <Tlf>89382000</Tlf>
+    <Email>post@almenbo-aarhus.dk</Email>
+  </row>
+  <row>
+    <SelId>8</SelId>
+    <Navn>Beder-Malling Boligforening</Navn>
+    <Tlf>70279797</Tlf>
+    <Email>udlejning@domi-admin.dk</Email>
+  </row>
+  <row>
+    <SelId>9</SelId>
+    <Navn>Boligforeningen Århus Omegn</Navn>
+    <Email>udlejning@boaarhusomegn.dk</Email>
+  </row>
+  <row>
+    <SelId>10</SelId>
+    <Navn>Alboa</Navn>
+    <Tlf>87406700</Tlf>
+    <Email>udlejning@alboa.dk</Email>
+  </row>
+  <row>
+    <SelId>11</SelId>
+    <Navn>Arbejdernes Andels Boligforening</Navn>
+    <Tlf>89313131</Tlf>
+    <Email>Tilbud@aabaarhus.dk</Email>
+  </row>
+</Selskaber>

@@ -1,0 +1,445 @@
+AfdId,SelId,Navn,Postby
+1,1,Afd. 1  Pal. Müllers Vej/Jens Baggesens Vej,8210
+2,1,Afd. 2 Haugesundsvej m.fl.,8200
+3,1,Afd. 3 Viggo Stuckenbergs Vej,8210
+4,1,Afd. 4 H.V. Kaalunds Vej / Chr. Molbechs Vej,8000
+5,1,Afd. 5 Otto Benzons Vej /Viggo Stuckenbergs Vej,8210
+6,1,Afd. 6 Risvang Allé / Bethesdavej,8200
+7,1,Afd. 7 Vestre Ringgade,8000
+8,1,Afd. 8 Vilh. Bergsøes Vej  / Peter Fabers Vej,8210
+9,1,Afd. 9 Trøjborgvej,8200
+10,1,Afd. 10 Sæterstien m.fl.,8200
+11,1,Afd. 11 Helge Rodes Vej,8210
+12,1,Afd. 12 Majdalen,8210
+13,1,Afd. 13 Hammershusvej,8210
+14,1,Afd. 14 Aldersrovej,8200
+15,1,Afd. 15 Otto Benzons Vej m.fl.,8210
+16,1,Afd. 16 Hammershusvej,8210
+17,1,Afd. 17 Kongsvang,8260
+18,1,Afd. 18 Trøjborgvej,8200
+19,1,Afd. 19 Tamperdalsvej,8210
+20,1,Afd. 20 Randersvej m.fl.,8200
+21,1,Afd. 21 Paludan-Müllers Vej/Finlandsgade,8200
+22,1,Afd. 22 Illerupvej,8200
+23,1,Afd. 23 Nydamsparken,8200
+24,1,Afd. 24 Kirkedammen,8000
+25,1,Afd. 25 Reginehøjvej,8200
+26,1,Afd. 26 Vestre Ringgade/Gustav Wieds Vej,8000
+27,1,Afd. 27 Frydenlund,8210
+28,1,Afd. 28 Lindholmparken,8200
+29,1,Afd. 29 Kalmargade,8200
+30,1,Afd. 30 Nørreskovvej,8382
+31,1,Afd. 31 Rydevænget,8210
+32,1,Afd. 32 Nørreskovvej,8382
+33,1,Afd. 33 Vestre Ringgade/Gustav Wieds Vej,8000
+34,1,Afd. 34 Salonikivej,8530
+35,1,Afd. 35 Skelagervej,8200
+36,1,Äfd. 36 Hallssti,8000
+37,1,Afd. 37 Istedgade,8000
+38,1,Afd. 38 Visbjerg Hegn,8320
+39,1,Afd. 39 Attikavej,8530
+40,1,Afd. 41 Viruplund,8530
+41,1,Afd. 42 Hjelmagerparken,8541
+42,1,Afd. 43 Mosevænget,8450
+43,1,Afd. 44 Hjulby Hegn,8380
+44,1,Afd. 45 Torpevænget /Kappelvænget,8210
+45,1,Afd. 46 Vistoftparken,8471
+46,1,Afd. 47 Julsøvej,8240
+47,1,Afd. 48 Skæring Parkvej,8250
+48,1,Afd. 49 Fredensgade,8000
+49,1,Afd. 50 Brendstrupvej,8200
+50,1,Afd. 51 Fredericiagade,8000
+51,1,Afd. 52 Viborgvej,8210
+52,1,Afd. 53 Julsøvej,8240
+53,1,Afd. 54 Norsgade,8000
+54,1,Afd. 55 Skæring Parkvej,8250
+55,1,Afd. 56 Katrinebjergvej,8200
+56,1,Afd. 57 Åvænget,8250
+57,1,Afd. 58 Ranunkelvej,8471
+58,1,Afd. 59 Høegh-Guldbergs Gade,8000
+59,1,Afd. 60 Paludan-Müllers Vej,8200
+60,1,Afd. 61 Paludan-Müllers Vej,8200
+61,1,Afd. 62 Skejbyparken,8200
+62,1,Afd. 63 Skæring Parkvej,8250
+63,1,Afd. 67 Hørretløkken,8320
+64,1,Afd. 69 Ryttervej,8450
+65,1,Afd. 70 Ranunkelvej,8471
+66,1,Afd. 71 Damgårdstoften,8320
+67,1,Afd. 72 Rønnevangen,8471
+68,1,Afd. 73 Virup Skovvej,8530
+69,1,Afd. 75 Herningvej 1,8000
+70,2,Afd. 01 Præstehaven,8210
+71,2,Afd. 02 Præstehaven,8210
+72,2,Afd. 03 Ryhaven,8210
+73,2,Afd. 05 Rosengården,8000
+74,2,Afd. 06 Bispehaven,8210
+75,2,Afd. 09 Rønnehegnet,8381
+76,2,Afd. 10 Neptunvej,8270
+77,2,Afd. 11 Holbergsgade,8000
+78,2,Afd. 12 Bymosevej,8210
+79,2,Afd. 13 Wilstersgade,8000
+80,2,Afd. 14 Tuestensvej,8381
+81,2,Afd. 15 Stavnsvej,8381
+82,2,Afd. 16 Rytoften,8210
+83,2,Afd. 19 Tronkærgårdsvej,8541
+84,2,Afd. 20 Marienlyst,8200
+85,2,Afd. 22 Bjørholms Alle,8260
+86,2,Afd. 71 Mågevej,8680
+87,2,Afd. 73 Mågevej,8680
+88,2,Afd. 74 Ny Kirkevej 25-29/Isagervej 17/Siimvej,8680
+89,2,Afd. 75 Ny Kirkevej,8680
+90,2,Afd. 76 Skansehøj,8680
+91,2,Afd. 77 Søkildevej,8680
+92,2,Afd. 78 Gyvelparken,8680
+93,2,Afd. 83 Skanseparken,8680
+94,2,Afd. 85 Moselunden,8680
+95,2,Afd. 87 Gerstedvej,8680
+96,2,Afd. 88 Skæphøj,8680
+97,2,Afd. 89 Kildebjerg,8680
+98,3,Afd. 101 Engparken,8230
+99,3,Afd. 103 Henrik Hertzvej,8230
+100,3,Afd. 104 Banely,8230
+101,3,Afd. 105 Tousparken,8230
+102,3,Afd. 107 Birkeparken,8230
+103,3,Afd. 108 Lindeparken,8230
+104,3,Afd. 109 Digtergangen,8230
+105,3,Afd. 110 Åbyhøjgård,8230
+106,3,Afd. 111 Langkærparken,8381
+107,3,Afd. 113 Græsvangen,8381
+108,3,Afd. 114 Hjortshøjparken,8530
+109,3,Afd. 118 B.S. Ingemannsvej,8230
+110,3,Afd. 120 Haslevej,8230
+111,3,Afd. 121 Æblehaven,8230
+112,3,Afd. 122 Søhøjen,8381
+113,3,Afd. 123 Vestergården,8381
+114,3,Afd. 125 Tranbjerg Syd,8310
+115,3,Afd. 126 Østergårdstoften,8530
+116,3,Afd. 127 Petersminde,8230
+117,3,Afd. 131 C.A. Thyregodsvej,8230
+118,3,Afd. 133 Skovfaldet,8382
+119,3,Afd. 134 Ertebjerg,8381
+120,3,Afd. 135 Mølagervej,8382
+121,3,Afd. 138 Engdraget/Ved Åen,8382
+122,3,Afd. 139 Moseparken,8381
+123,3,Afd. 140 Poppelhegnet,8381
+124,3,Afd. 141 Korsvangen,8382
+125,3,Afd. 142 Jernaldervej,8382
+126,3,Afd. 143 Hinneruplund,8382
+127,3,Afd. 145 Fuglebakken,8382
+128,3,Afd. 146 Ellemosevej,8370
+129,3,Afd. 147 Lilleåbakken,8382
+130,3,Afd. 151 Elkjærsvej,8450
+131,3,Afd. 152 Kappelsdal,8450
+132,3,Afd. 153 Mejerigården,8450
+133,3,Afd. 155 Jagtvej,8450
+134,3,Afd. 156 Hammel Midtby,8450
+135,3,Afd. 158 Skolegade,8450
+136,3,Afd. 159 Danasvej,8450
+137,3,Afd. 301 A. Jensens Vej,8230
+138,3,Afd. 303 O.I. Offersensvej,8230
+139,3,Afd. 304 A. Jensensvej,8230
+140,3,Afd. 305 A. Jensensvej,8230
+141,3,Afd. 306 A. Jensensvej,8230
+142,3,Afd. 307 Henrik Hertzvej,8230
+143,3,Afd. 308 Vibyvej,8230
+144,3,Afd. 309 Henrik Hertzvej /Vibyvej,8230
+145,3,Afd. 310 Åbyhøjgård,8230
+146,3,Afd. 312 Hjortshøj Møllevej,8530
+147,3,Afd. 313 Hjortshøjparken,8530
+148,3,Afd. 314 Strandborg,8310
+149,3,Afd. 315 Højager,8530
+150,3,Afd. 318 Solsiden,8310
+151,3,Afd. 319 Belgrano,8230
+152,4,Afd. 01 Dybbølvej,8240
+153,4,Afd. 04 Langengevej (syd),8240
+154,4,Afd. 05 Tværmarksvej / Stenagervej,8240
+155,4,Afd. 08 Tranekærparken,8240
+156,4,Afd. 09 Spangsvej m.fl.,8240
+157,4,Afd. 10 Vejlby Vænge,8240
+158,4,Afd. 11 Vejlby Toften,8240
+159,4,Afd. 12 Kildehøjen,8240
+160,4,Afd. 14 Vejlby Hus,8240
+161,4,Afd. 17 Vejlby Toften,8240
+162,4,Afd. 18 Vikær Toften,8240
+163,4,Afd. 19 Langengevej (nord),8240
+164,5,Afd. 01 Hans Brogesparken,8220
+165,5,Afd. 02 Søvangen,8220
+166,5,Afd. 03 Skovgårdsparken,8220
+167,5,Afd. 04 Gellerupparken,8220
+168,5,Afd. 05 Toveshøj,8220
+169,5,Afd. 06 Holmstrup,8210
+170,5,Afd. 07 Hasselhøj,8361
+171,5,Afd. 08 Drejergården,8220
+172,5,Afd. 10 Rødlundparken,8462
+173,5,Afd. 11 Odinsgaard,8220
+174,5,Afd. 12 Thorsbjerg,8220
+175,5,Afd. 14 Borumtoften,8471
+176,5,Afd. 15 Hasselengen,8361
+177,5,Afd. 16 SenioBo Voldbækhave,8220
+178,5,Afd. 17 Højriisparken,8220
+179,5,Afd. 18 Lyngby,8220
+180,5,Afd. 19 Bronzealdervænget,8210
+181,5,Afd. 21 Baunevej/Hasseltoften,8361
+182,5,Afd. 22 Sonnesgården,8000
+183,5,Afd. 23 Skovhøj,8361
+184,5,Afd. 24 Skovhøj,8361
+185,5,Afd. 25 Østergårdsparken,8310
+186,5,Afd. 26 Kildeagervej,8361
+187,5,Afd. 30 Pilevangen,8355
+188,6,Afd. 01 V. Ringgade m.fl.,8000
+189,6,Afd. 02 Viborgvej m.fl.,8000
+190,6,Afd. 03 Kaserneboulevarden,8000
+191,6,Afd. 04 Silkeborgvej,8000
+192,6,Afd. 05 Paludan-Müllers Vej m. fl.,8210
+193,6,Afd. 06 Paludan-Müllers Vej m. fl.,8210
+194,6,Afd. 07 Gustav Wiedsvej 31-35,8200
+195,6,Afd. 7A Møllevangsalle 145-149,8210
+196,6,Afd. 7B Willemoesgade 76-82,8200
+197,6,Afd. 08 Fuglesangsalle m.fl.,8210
+198,6,Afd. 09 Bildbjerg Parkvej m.fl.,8200
+199,6,Afd. 9A Mandalsvej m.fl.,8200
+200,6,Afd. 9B Bodøvej,8200
+201,6,Afd. 9C Bygvangen m.fl.,8200
+202,6,Afd. 9D Bodøvej,8200
+203,6,Afd. 10 Paludan-Müllers Vej,8210
+204,6,Afd. 11 Ndr. Ringgade m.fl.,8200
+205,6,Afd. 12 Stendalsvej,8210
+206,6,Afd. 14 Engvangen,8520
+207,6,Afd. 14A Kærløkken m.fl.,8520
+208,6,Afd. 14 B Hedeskovvej m.fl.,8520
+209,6,Afd. 14C Lystruplund,8520
+210,6,Afd. 15 Holme Byvej m.fl.,8270
+211,6,Afd. 15A Holme Byvej,8270
+212,6,Afd. 17 Rundhøjalle,8270
+213,6,Afd. 18 Bogfinkevej,8210
+214,6,Afd. 19 Trige Centervej,8380
+215,6,Afd. 20 Trige Parkvej,8380
+216,6,Afd. 21 Rydevænget/Fjældevænget,8210
+217,6,Afd. 22 Dr. Margrethesvej,8200
+218,6,Afd. 23 Solbærhaven m.fl.,8520
+219,6,Afd. 24 Præsteager,8200
+220,6,Afd. 25 Præsteager 30-64,8200
+221,6,Afd. 26 Bjørnholt,8520
+222,6,Afd. 27 Skelagervej 3A-3D,8200
+223,6,Afd. 28 Ellebrinken,8520
+224,6,Afd. 29 Skejbytoften,8200
+225,6,Afd. 30 Hjortshøj Møllevej,8530
+226,6,Afd. 31 Ellebrinken,8520
+227,6,Afd. 32 Skejbyparken,8200
+228,6,Afd. 33 Lærkehaven I,8520
+229,6,Afd. 34 Lærkehaven II,8520
+230,6,Afd. 35 Lærkehaven III,8520
+231,6,Afd. 36 Havnen 1,8000
+232,6,Afd. 37 Havnen 2,8000
+233,7,Afd. 01 Silkeborgvej,8000
+234,7,Afd. 02 Vestre Ringgade,8000
+235,7,Afd. 03 Paludan-Müllers Vej,8210
+236,7,Afd. 04 Nordborggade,8000
+237,7,Afd. 05 Jævndøgnsvej,8200
+238,7,Afd. 06 Silkeborgvej,8000
+239,7,Afd. 07 Illerupvej,8200
+240,7,Afd. 08 Holme Møllevej,8260
+241,7,Afd. 09 Kirkedammen,8000
+242,7,Afd. 10 Åbenrågade,8000
+243,7,Afd. 11 Neptunvej,8260
+244,7,Afd. 12 Neptunvej,8260
+245,7,Afd. 13 Neptunvej,8260
+246,7,Afd. 14 Frydenlund,8210
+247,7,Afd. 15 Frydenlund,8210
+248,7,Afd. 16 Græsvangen,8381
+249,7,Afd. 19 Rydevænget,8210
+250,7,Afd. 20 Vestergade,8000
+251,7,Afd. 22 Fjældevænget,8210
+252,7,Afd. 24 Bødker Balles Gård,8000
+253,7,Afd. 25 Skelagervej,8200
+254,7,Afd. 26 Skelagervej,8200
+255,7,Afd. 27 Skelagervej,8200
+256,7,Afd. 29 Sabro Vænge,8471
+257,7,Afd. 30 Rundhøj Allé,8270
+258,7,Afd. 31 Hjelmagerparken,8541
+259,7,Afd. 32 Engskovbakken,8541
+260,7,Afd. 33 Vistoftparken,8471
+261,7,Afd. 34 Holme Møllevej,8260
+262,7,Afd. 35 Skejbytoften,8200
+263,7,Afd. 36 Ladefogedvej,8200
+264,7,Afd. 37 Ladefogedvej,8200
+265,7,Afd. 38 Tousvej,8230
+266,7,Afd. 39 Ranunkelvej,8471
+267,7,Afd. 40 Kløvermarsksvej,8200
+268,7,Afd. 41 Torpevænget,8210
+269,7,Afd. 42 Højagerparken,8471
+270,7,Afd. 43 Ladefogedvej,8200
+271,7,Afd. 45 Langørvej,8381
+272,7,Afd. 46 Herredsvej,8210
+273,7,Afd. 47 Oldjordsvej,8000
+274,7,Afd. 48 Stationsvangen,8541
+275,7,Afd. 49 Engskovvænget,8541
+276,7,Afd. 50 Lauritshøj,8541
+277,7,Afd. 51 Åbenrågade 9 A 4.,8000
+278,8,Afd. 01 Søndermarksvej/Tværgade,8340
+279,8,Afd. 02 Bredgade,8340
+280,8,Afd. 03 Nyvej/Smedegårds Alle,8340
+281,8,Afd. 04 Engdalgårdsvej,8330
+282,8,Afd. 05 Stenhøjgårdsvej,8340
+283,8,Afd. 06 Tværgade,8340
+284,8,Afd. 07 Smedegårds Alle,8340
+285,8,Afd. 08 Engkærgårds Alle,8340
+286,8,Afd. 9 Mallinggårdsvej,8340
+287,8,Afd. 11 Markskellet,8340
+288,8,Afd. 14 Moselunden,8340
+289,8,Afd. 15 Veilgårdsparken,8340
+290,8,Afd. 16 Starupvej,8340
+291,9,Afd. 01 Præstevangen,8260
+292,9,Afd. 02 Rosenhøj,8260
+293,9,Afd. 06 Elstedhøj,8520
+294,9,Afd. 09 Grøfthøjparken,8260
+295,9,Afd. 10 Skovhøj,8361
+296,9,Afd. 11 Egevangen,8355
+297,9,Afd. 14 Majsmarken,8520
+298,9,Afd. 16 Matildelundsvej,8260
+299,9,Afd. 17 Skovhøj,8361
+300,9,Afd. 18 Fuglekærvænget,8361
+301,9,Afd. 19 Elevparken,8520
+302,9,Afd. 20 Pilevangen,8355
+303,9,Afd. 21 Møllevangs Allé/Fuglesangs Allé,8210
+304,9,Afd. 22 Borgmester Jakob Jensens Gade,8000
+305,9,Afd. 23 Markus Kirkeplads/Grønnegade,8000
+306,9,Afd. 25 Finsensgade,8200
+307,10,Afd. 01 Grundtvigsvej,8260
+308,10,Afd. 02 Højbjergparken,8270
+309,10,Afd. 03 Runde gård,8260
+310,10,Afd. 04 Frederiksparken,8270
+311,10,Afd. 05 Øster Alle,8260
+312,10,Afd. 06 Hømosevej,8260
+313,10,Afd. 07 Saralystparken,8270
+314,10,Afd. 08 Byvangen,8260
+315,10,Afd. 09 Saralystparken,8270
+316,10,Afd. 10 Lykkesholms Allé,8260
+317,10,Afd. 11 Vestergårdsparken,8260
+318,10,Afd. 12 Grønnegården,8260
+319,10,Afd. 13 Stenkildeparken,8260
+320,10,Afd. 14 Altangangshuset,8260
+321,10,Afd. 15 Dalvangen,8270
+322,10,Afd. 16 Høvænget,8260
+323,10,Afd. 17 M.P. Hansens Vej,8270
+324,10,Afd. 18 Ny Vestergårdspark 1,8260
+325,10,Afd. 19 Ny Vestergårdspark 2,8260
+326,10,Afd. 20 Elverdalsparken,8270
+327,10,Afd. 21 Gartnervænget,8310
+328,10,Afd. 22 Olaf Rudes Vej,8270
+329,10,Afd. 23 Rundhøj I,8270
+330,10,Afd. 24 Gl. Søndervangen,8260
+331,10,Afd. 25 Rundhøj Allé II,8270
+332,10,Afd. 26 Kjærslund,8260
+333,10,Afd. 27 Ny Vestergårdspark 3,8260
+334,10,Afd. 28 Gyvelparken,8464
+335,10,Afd. 29 Kærgårdsparken,8355
+336,10,Afd. 30 Rundhøj Kollegiet,8270
+337,10,Afd. 31 Ny Søndervangen,8260
+338,10,Afd. 33 Abildgade,8200
+339,10,Afd. 34 Vårkjærparken,8260
+340,10,Afd. 35 Kalkærparken,8270
+341,10,Afd. 36 Byagerparken,8330
+342,10,Afd. 37 Vejlby Vest,8240
+343,10,Afd. 38 Tranbjergparken,8310
+344,10,Afd. 39 Hjulbjergvej,8270
+345,10,Afd. 40 Håndværkerparken,8270
+346,10,Afd. 41 L.A. Rings Vej,8270
+347,10,Afd. 42 Egelundsparken,8330
+348,10,Afd. 43 Håndværkerparken,8270
+349,10,Afd. 44 Fiskergade,8000
+350,10,Afd. 45 Håndværkerparken,8270
+351,10,Afd. 46 Hirsevænget,8464
+352,10,Afd. 47 Råhøjparken,8260
+353,10,Afd. 48 Virkelyst,8464
+354,10,Afd. 49 Håndværkerparken,8270
+355,10,Afd. 51 RyBo,8210
+356,10,Afd. 52 KatrineBo,8200
+357,10,Afd. 53 Håndværkerparken,8270
+358,10,Afd. 54 Bavnebakken,8361
+359,10,Afd. 55 Bavnebakken,8361
+360,10,Afd. 57 Ingerslevs Boulevard,8000
+361,10,Afd. 58 Damtoften,8260
+362,10,Afd. 59 Generatoren,8464
+363,10,Afd. 60 Håndværkerparken,8270
+364,10,Afd. 61 Stavtrup Vænge,8260
+365,10,Afd. 62 Absalonsgade,8000
+366,10,Afd. 63 Bøgeskovparken,8260
+367,10,Afd. 64 Børupvej,8310
+368,10,Afd. 66 Håndværkerparken,8270
+369,10,Afd. 67 Kunneruphøj,8361
+370,10,Afd. 68 Holme Parkvej,8270
+371,10,Afd. 69 Håndværkerparken,8270
+372,10,Afd. 70 Jegstruphøj,8361
+373,10,Afd. 71 Porskær,8464
+374,10,Afd. 72 Klokkeblomstvej,8260
+375,10,Afd. 73 Frisenholt,8310
+376,10,Afd. 74 Frisenholt,8310
+377,10,Afd. 75 Søndervangskollegiet,8260
+378,10,Afd. 76 Engelundsvej,8260
+379,10,Afd. 77 Hvidmosegård,8270
+380,10,Afd. 78 Engelundsvej,8260
+381,10,Afd. 79 Pilevangen,8355
+382,10,Afd. 80 Salamanderparken,8260
+383,10,Afd. 903 Egmontgården K 2,8260
+384,11,Afd. 01 Villabyen Skovbakken,8200
+385,11,Afd. 02 Nordre Bydel I,8200
+386,11,Afd. 03 Nordre Bydel II,8200
+387,11,Afd. 04 Skovkanten,8200
+388,11,Afd. 05 Teglgården,8000
+389,11,Afd. 06 Ingerslevgården,8000
+390,11,Afd. 07 Ringkøbingvej,8000
+391,11,Afd. 08 Marselisgården I,8000
+392,11,Afd. 09 Viborggård,8000
+393,11,Afd. 10 Skovfaldet,8200
+394,11,Afd. 11 Riisvangen I,8200
+395,11,Afd. 12 Riisvangen II,8200
+396,11,Afd. 13 Riisvangen III,8200
+397,11,Afd. 14 Rytterparken,8200
+398,11,Afd. 15 Skovvangsparken,8200
+399,11,Afd. 16 Charlottehøj,8210
+400,11,Afd. 17 Vorrevangen I,8200
+401,11,Afd. 18 Vorrevangen II,8200
+402,11,Afd. 19 Vorrevangsparken,8200
+403,11,Afd. 20 Niels Ebbesens gård,8200
+404,11,Afd. 21 Langenæs I,8000
+405,11,Afd. 22 Langenæs II,8000
+406,11,Afd. 23 Kridthøjparken,8270
+407,11,Afd. 24 Skovgårdsparken,8220
+408,11,Afd. 25 Klostervangen,8000
+409,11,Afd. 26 Egå I,8250
+410,11,Afd. 28 Rundhøj,8270
+411,11,Afd. 29 Højhuset Langenæs,8000
+412,11,Afd. 30 Frydenlund,8210
+413,11,Afd. 31 Postgården,8270
+414,11,Afd. 32 Abildhaven,8200
+415,11,afd. 33 Præstehaven,8362
+416,11,Afd. 34 Mølleparken,8362
+417,11,Afd. 35 Trillegården,8210
+418,11,afd. 36 Abildgade,8200
+419,11,Afd. 37 Fjældevænget,8210
+420,11,Afd. 38 Sandkåsparken,8210
+421,11,afd. 39 Sandkåsparken II,8200
+422,11,Afd. 40 Veri I,8240
+423,11,Afd. 41 Veri II,8240
+424,11,Afd. 47 Egå II,8250
+425,11,Afd. 48 Egå III,8250
+426,11,Afd. 52 Skådeparken,8270
+427,11,Afd. 53 Bushøjen,8270
+428,11,Afd. 54 Grønningen,8362
+429,11,Afd. 56 Nøddeskrænten,8270
+430,11,Afd. 57 ungdomsbolig Trillegården,8210
+431,11,Afd. 58 Roukær,8270
+432,11,Afd. 59 Spongparken,8362
+433,11,Afd. 60 Frederiksbjerg-bo,8000
+434,11,Afd. 61 Skovkollegiet,8210
+435,11,Afd. 62 Hasle-bo,8200
+436,11,Afd. 63 Postgården,8270
+437,11,Afd. 64 Ved Skoven,8210
+438,11,Afd. 65 Æblelunden,8530
+439,11,Afd. 71 Nykersvej,8210
+440,11,Afd. 72 Nygade,8000
+441,11,Afd. 73 Fænøgade/Graven/Volden,8000
+442,11,Afd. 74 Nørregade/Nørreport,8000
+443,11,Afd. 75 Havnen,8000
+444,11,Afd. 160 Ældreboliger Frederiksbjerg,8000
