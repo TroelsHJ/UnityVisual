@@ -7,8 +7,14 @@ public class ShowData : MonoBehaviour
 {
     public Text displayTextField;
 
-    public void DisplayAmountWaitingInInfoBox(int _numberToDisplay)
+    public void DisplayAmountWaitingInBox(int _numberToDisplay)
     {
         displayTextField.text = _numberToDisplay.ToString();
     }
+
+    public void ClearDisplayAmountWaitingInBox()
+    {
+        displayTextField.text = "";
+    }
+
 }

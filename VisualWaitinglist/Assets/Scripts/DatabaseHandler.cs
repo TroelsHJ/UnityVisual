@@ -12,26 +12,26 @@ public class DatabaseHandler : MonoBehaviour
     private MySqlDataReader reader;
     private MySqlCommand cmd;
 
-    private void Awake()
-    {
-        DontDestroyOnLoad(this.gameObject);
-        connectionString = "server=sql.itcn.dk;uid=troe3894.EADANIA;pwd=d8QPTq33f6;database=troe3894.EADANIA";
+    //private void Awake()
+    //{
+    //    DontDestroyOnLoad(this.gameObject);
+    //    connectionString = "server=sql.itcn.dk;uid=troe3894.EADANIA;pwd=d8QPTq33f6;database=troe3894.EADANIA";
 
-        cmd = new MySqlCommand();
+    //    cmd = new MySqlCommand();
 
-        try
-        {
-            conn = new MySqlConnection();
-            conn.ConnectionString = connectionString;
-            conn.Open();
-        }
-        catch (System.Exception e)
-        {
-            Debug.Log(e);
-        }
+    //    try
+    //    {
+    //        conn = new MySqlConnection();
+    //        conn.ConnectionString = connectionString;
+    //        conn.Open();
+    //    }
+    //    catch (System.Exception e)
+    //    {
+    //        Debug.Log(e);
+    //    }
 
-        Debug.Log(conn.State);
-    }
+    //    Debug.Log(conn.State);
+    //}
 
     public int GetListForArea(int _postalNumber)
     {
