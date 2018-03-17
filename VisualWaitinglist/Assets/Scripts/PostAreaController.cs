@@ -6,18 +6,28 @@ using UnityEngine;
 public class PostAreaController : MonoBehaviour
 {
     DatabaseHandler DB;
-    private int amountWaiting;
     public ShowData display;
+
+    private int amountWaiting;
+    private Renderer ColorRenderer;
 
     void Start()
     {
         DB = GameObject.Find("DatabaseHandler").GetComponent<DatabaseHandler>();
+        ColorRenderer = GetComponent<Renderer>();
 
         //amountWaiting = DB.GetListForArea(int.Parse(this.transform.name));
         amountWaiting = int.Parse(this.transform.name);
 
         SetInitScale(amountWaiting);
-        SetColorGradient();
+        SetRandomColor();
+
+        //SetColorGradient();
+    }
+
+    private void SetRandomColor()
+    {
+        ColorRenderer.material.color = UnityEngine.Random.ColorHSV();
     }
 
     private void SetColorGradient()
@@ -43,8 +53,8 @@ public class PostAreaController : MonoBehaviour
 
     private void SetInitScale(int amountWaiting)
     {
-        float scaleByAmount = amountWaiting / 50;
-        this.transform.localScale += new Vector3(5, scaleByAmount, 5);
+        float scaleByAmount = amountWaiting * 0.1f;
+        this.transform.localScale += new Vector3(0, scaleByAmount, 0);
         this.transform.position += new Vector3(0, scaleByAmount / 2, 0);
     }
 
