@@ -7,33 +7,51 @@ using System;
 
 public class DatabaseHandler : MonoBehaviour
 {
-    private string connectionString;
-    private MySqlConnection conn;
-    private MySqlDataReader reader;
-    private MySqlCommand cmd;
+    private string ConnectionString;
+    private MySqlConnection Conn;
+    private MySqlDataReader Reader;
+    private MySqlCommand CMD;
 
-    //private void Awake()
-    //{
-    //    DontDestroyOnLoad(this.gameObject);
-    //    connectionString = "server=sql.itcn.dk;uid=troe3894.EADANIA;pwd=d8QPTq33f6;database=troe3894.EADANIA";
+    private void Awake()
+    {
+        DontDestroyOnLoad(this.gameObject);
+        ConnectionString = "server=sql.itcn.dk;uid=troe3894.EADANIA;pwd=d8QPTq33f6;database=troe3894.EADANIA";
 
-    //    cmd = new MySqlCommand();
+        CMD = new MySqlCommand();
 
-    //    try
-    //    {
-    //        conn = new MySqlConnection();
-    //        conn.ConnectionString = connectionString;
-    //        conn.Open();
-    //    }
-    //    catch (System.Exception e)
-    //    {
-    //        Debug.Log(e);
-    //    }
+        try
+        {
+            Conn = new MySqlConnection();
+            Conn.ConnectionString = ConnectionString;
+            Conn.Open();
+        }
+        catch (System.Exception e)
+        {
+            Debug.Log(e);
+        }
 
-    //    Debug.Log(conn.State);
-    //}
+        Debug.Log(Conn.State);
+    }
 
-    public int GetListForArea(int _postalNumber)
+    internal string GetNameForArea(int _postalNumber)
+    {
+        string _tempPostalName = "";
+
+        CMD.CommandText = string.Format("SELECT * FROM omraadenavn WHERE AfdId = {0};", _postalNumber);
+        CMD.CommandType = CommandType.Text;
+        CMD.Connection = Conn;
+
+        Reader = CMD.ExecuteReader();
+        while (Reader.Read())
+        {
+            _tempPostalName = Reader[1].ToString();
+        }
+        Reader.Close();
+
+        return _tempPostalName;
+    }
+
+    internal int GetListForArea(int _postalNumber)
     {
         List<WaitList> _tempList = new List<WaitList>();
         int totalListLength = 0;
@@ -55,17 +73,17 @@ public class DatabaseHandler : MonoBehaviour
         List<WaitList> _tempList = new List<WaitList>();
         WaitList _tempListObj;
 
-        cmd.CommandText = string.Format("SELECT ventelister.AntalPaaVenteliste, afdelinger.AfdPostBy, afdelinger.AfdId FROM ventelister INNER JOIN afdelinger ON ventelister.FK_AfdId = afdelinger.AfdId WHERE AfdPostBy = {0};", _postalNumber);
-        cmd.CommandType = CommandType.Text;
-        cmd.Connection = conn;
+        CMD.CommandText = string.Format("SELECT ventelister.AntalPaaVenteliste, afdelinger.AfdPostBy, afdelinger.AfdId FROM ventelister INNER JOIN afdelinger ON ventelister.FK_AfdId = afdelinger.AfdId WHERE AfdPostBy = {0};", _postalNumber);
+        CMD.CommandType = CommandType.Text;
+        CMD.Connection = Conn;
 
-        reader = cmd.ExecuteReader();
-        while (reader.Read())
+        Reader = CMD.ExecuteReader();
+        while (Reader.Read())
         {
-            _tempListObj = new WaitList((int)reader[2], (int)reader[1], (int)reader[0]);
+            _tempListObj = new WaitList((int)Reader[2], (int)Reader[1], (int)Reader[0]);
             _tempList.Add(_tempListObj);
         }
-        reader.Close();
+        Reader.Close();
 
         return _tempList;
     }

@@ -24,3 +24,8 @@ CREATE TABLE ventelister (
     FOREIGN KEY (FK_AfdId) references afdelinger (AfdId),
     FOREIGN KEY (FK_SelId) references selvskaber (SelId)
 );
+
+CREATE TABLE omraadenavn (
+AfdId INT NOT NULL, 
+Navn varchar(60) NOT NULL PRIMARY KEY
+);
