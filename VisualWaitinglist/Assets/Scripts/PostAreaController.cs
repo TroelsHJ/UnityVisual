@@ -19,7 +19,8 @@ public class PostAreaController : MonoBehaviour
 
         AmountWaiting = DB.GetListForArea(int.Parse(this.transform.name));
         PostalAreaName = DB.GetNameForArea(int.Parse(this.transform.name));
-        //amountWaiting = int.Parse(this.transform.name);
+        //AmountWaiting = int.Parse(this.transform.name);
+        //PostalAreaName = this.transform.name;
 
         SetInitScale(AmountWaiting);
         SetRandomColor();
