@@ -7,15 +7,13 @@ public class PostAreaController : MonoBehaviour
 {
     private ShowData Display;
     private DatabaseHandler DB;
-    private int AmountWaiting;
-    private Renderer ColorRenderer;
+    public int AmountWaiting;
     private string PostalAreaName;
 
     void Start()
     {
         DB = GameObject.Find("DatabaseHandler").GetComponent<DatabaseHandler>();
         Display = GameObject.Find("Canvas").GetComponent<ShowData>();
-        ColorRenderer = GetComponent<Renderer>();
 
         AmountWaiting = DB.GetListForArea(int.Parse(this.transform.name));
         PostalAreaName = DB.GetNameForArea(int.Parse(this.transform.name));
@@ -23,12 +21,6 @@ public class PostAreaController : MonoBehaviour
         //PostalAreaName = this.transform.name;
 
         SetInitScale(AmountWaiting);
-        SetRandomColor();
-    }
-
-    private void SetRandomColor()
-    {
-        ColorRenderer.material.color = UnityEngine.Random.ColorHSV();
     }
 
     private void SetInitScale(int _amountWaiting)

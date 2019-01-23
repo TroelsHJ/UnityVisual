@@ -24,6 +24,7 @@ GameObject:
   - component: {fileID: 23326860042345286}
   - component: {fileID: 114401986148909516}
   - component: {fileID: 54266802106198274}
+  - component: {fileID: 114063587924539178}
   m_Layer: 0
   m_Name: PostalAreaPrefab
   m_TagString: Untagged
@@ -100,6 +101,18 @@ Rigidbody:
   m_Interpolate: 0
   m_Constraints: 0
   m_CollisionDetection: 0
+--- !u!114 &114063587924539178
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1932258301805568}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2764b66d031819a4ea3afd4350f4bc4f, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  ActualColor: {r: 0, g: 0, b: 0, a: 0}
 --- !u!114 &114401986148909516
 MonoBehaviour:
   m_ObjectHideFlags: 1
@@ -111,7 +124,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 8936e42448af83d4b92bbd6b52271b4a, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  display: {fileID: 0}
+  AmountWaiting: 0
 --- !u!136 &136359058240481236
 CapsuleCollider:
   m_ObjectHideFlags: 1
